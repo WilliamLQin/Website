@@ -9,16 +9,13 @@
       <a class="navbar-brand" href="/home.php/">William Qin</a>
     </div>
     <div class="collapse navbar-collapse" id="headerNav">
-      <ul class="nav navbar-nav">
+      <ul class="nav navbar-nav navbar-right">
         <li><a href="#">About</a></li>
         <li><a href="#">Portfolio</a></li>
         <li><a href="#">Resume</a></li>
         <li><a href="#">Blog</a></li>
-        <li><a href="#">Blog</a></li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+        <li><a href="#">Timeline</a></li>
+        <li><a href="#">Contact</a></li>
       </ul>
     </div>
   </div>
