@@ -14,11 +14,16 @@
 nav a {
   font-size: 22px;
 }
-
-nav a.navbar-brand {
+nav .navbar-brand {
   font-size: 22px;
 }
-
 nav {
   padding: 5px;
+}
+
+nav.navbar-inverse .navbar-nav>li>a {
+  color: #c1c1c1;
+}
+nav.navbar-inverse .navbar-brand {
+  color: #FFFFFF;
 }
