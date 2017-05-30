@@ -11,6 +11,14 @@
   font-family: "CaviarDreams", Verdana, sans-serif;
 }
 
+nav a {
+  font-size: 22px;
+}
+
+nav a.navbar-brand {
+  font-size: 22px;
+}
+
 nav {
   padding: 5px;
 }
