@@ -17,15 +17,15 @@
     <img src="/resources/Splash/portfolio-3by5.jpeg" alt="portfolio" class="animated expand-image rounded">
   </div>
 
-  <div class="col-4 height-2 stack hover-all">
+  <div class="col-4 height-2 hover-all stack">
     <div class="overlay">
-      <a href="archive.php" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
+      <a href="timeline.php" class="animated expand-container hidden-container button button-transparent button-border-white">
         <h3 class="overlay-header">
-          About
+          Timeline
         </h3>
       </a>
     </div>
-    <img src="/resources/Splash/about-4by2.jpg" alt="archive" class="animated expand-image rounded">
+    <img src="/resources/Splash/timeline-4by2.jpg" alt="achievements" class="animated expand-image rounded">
   </div>
 
   <div class="col-2 height-2 stack hover-all">
@@ -52,7 +52,7 @@
 
   <div class="col-6 height-3 stack hover-all">
     <div class="overlay">
-      <a href="about.php" class="animated expand-container hidden-container button button-white button-border-white">
+      <a href="home.php" class="animated expand-container hidden-container button button-white button-border-white">
         <h1 class="title-name">
           Welcome
         </h1>
@@ -95,15 +95,15 @@
     <img src="/resources/Splash/warplabslogo.png" alt="warplabs" class="animated expand-image rounded">
   </div>
 
-  <div class="col-4 height-2 hover-all stack">
+  <div class="col-4 height-2 stack hover-all">
     <div class="overlay">
-      <a href="timeline.php" class="animated expand-container hidden-container button button-transparent button-border-white">
+      <a href="about.php" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
         <h3 class="overlay-header">
-          Timeline
+          About
         </h3>
       </a>
     </div>
-    <img src="/resources/Splash/timeline-4by2.jpg" alt="achievements" class="animated expand-image rounded">
+    <img src="/resources/Splash/about-4by2.jpg" alt="about" class="animated expand-image rounded">
   </div>
 
   <div class="col-1 height-1 hover-all">
