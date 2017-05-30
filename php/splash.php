@@ -21,11 +21,11 @@
     <div class="overlay">
       <a href="archive.php" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
         <h3 class="overlay-header">
-          Archive
+          About
         </h3>
       </a>
     </div>
-    <img src="/resources/Splash/archive-1by1.jpeg" alt="archive" class="animated expand-image rounded">
+    <img src="/resources/Splash/about-4by2.jpg" alt="archive" class="animated expand-image rounded">
   </div>
 
   <div class="col-2 height-2 stack hover-all">
@@ -84,17 +84,6 @@
     <img src="/resources/Splash/contact-1by1.jpg" alt="contact" class="animated expand-image rounded">
   </div>
 
-  <div class="col-4 height-2 hover-all stack">
-    <div class="overlay">
-      <a href="timeline.php" class="animated expand-container hidden-container button button-transparent button-border-white">
-        <h3 class="overlay-header">
-          Timeline
-        </h3>
-      </a>
-    </div>
-    <img src="/resources/Splash/timeline-4by2.jpg" alt="achievements" class="animated expand-image rounded">
-  </div>
-
   <div class="col-2 height-2 stack hover-all">
     <div class="overlay">
       <a href="https://warplabs.wixsite.com/warplabs" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
@@ -104,6 +93,17 @@
       </a>
     </div>
     <img src="/resources/Splash/warplabslogo.png" alt="warplabs" class="animated expand-image rounded">
+  </div>
+
+  <div class="col-4 height-2 hover-all stack">
+    <div class="overlay">
+      <a href="timeline.php" class="animated expand-container hidden-container button button-transparent button-border-white">
+        <h3 class="overlay-header">
+          Timeline
+        </h3>
+      </a>
+    </div>
+    <img src="/resources/Splash/timeline-4by2.jpg" alt="achievements" class="animated expand-image rounded">
   </div>
 
   <div class="col-1 height-1 hover-all">
