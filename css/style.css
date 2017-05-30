@@ -12,5 +12,9 @@
 }
 
 nav a {
-  font-size: 40px
+  font-size: 30px;
+}
+
+nav {
+  padding: 5px;
 }
