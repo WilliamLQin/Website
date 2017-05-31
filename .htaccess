@@ -2,6 +2,11 @@
 
 ErrorDocument 404 /404.php
 
+## Turn mod_rewrite on
+
+RewriteEngine On
+RewriteBase /
+
 ## Remove .php extension
 
 RewriteCond %{REQUEST_FILENAME}.php -f
