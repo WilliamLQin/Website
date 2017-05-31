@@ -6,7 +6,7 @@
 
   <?php include('php/header.php') ?>
 
-  <div class="jumbotron vertical-center" style="margin-bottom: 0px">
+  <div class="jumbotron vertical-center" style="margin-bottom: 0px; background-image: url(/resources/Images/home.jpeg);">
     <div class="container text-center">
       <h1>Hi.</h1>
     </div>

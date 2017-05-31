@@ -92,7 +92,7 @@
         </p>
       </a>
     </div>
-    <img src="/resources/Splash/warplabslogo.png" alt="warplabs" class="animated expand-image rounded">
+    <img src="/resources/Logos/warplabslogo.png" alt="warplabs" class="animated expand-image rounded">
   </div>
 
   <div class="col-4 height-2 stack hover-all">
@@ -108,24 +108,24 @@
 
   <div class="col-1 height-1 hover-all">
     <a href="https://www.facebook.com/william.qin51">
-      <img src="/resources/Splash/facebooklogo.png" alt="facebook" class="animated expand-image-logoalt">
+      <img src="/resources/Logos/facebooklogo.png" alt="facebook" class="animated expand-image-logoalt">
     </a>
   </div>
   <div class="col-1 height-1 hover-all">
     <a href="https://github.com/WilliamLQin">
-      <img src="/resources/Splash/githublogo.png" alt="github" class="animated expand-image-logoalt">
+      <img src="/resources/Logos/githublogo.png" alt="github" class="animated expand-image-logoalt">
     </a>
   </div>
   <div class="col-1 height-1 hover-all">
     <a href="https://www.linkedin.com/in/williamqin">
-      <img src="/resources/Splash/linkedinlogoTM.png" alt="linkedin" class="animated expand-image">
+      <img src="/resources/Logos/linkedinlogoTM.png" alt="linkedin" class="animated expand-image">
     </a>
   </div>
 
   <div class="col-3 height-1 hover-all">
     <a class="animated expand-container button button-grey button-border-white">
       <h3 class="copyright">
-        &copy William Qin 2016
+        &copy William Qin 2016-17
       </h3>
     </a>
   </div>

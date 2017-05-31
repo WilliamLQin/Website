@@ -11,6 +11,10 @@
   font-family: "CaviarDreams", Verdana, sans-serif;
 }
 
+.bold{
+  font-family: "CaviarDreamsBold", Verdana, sans-serif;
+}
+
 .vertical-center {
   min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
   min-height: 100vh; /* These two lines are counted as one :-)       */
@@ -20,10 +24,10 @@
 }
 
 nav a {
-  font-size: 22px;
+  font-size: 20px;
 }
 nav .navbar-brand {
-  font-size: 22px;
+  font-size: 20px;
 }
 nav {
   padding: 5px;
