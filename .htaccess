@@ -1,3 +1,8 @@
 ## Error 404 webpage
 
 ErrorDocument 404 /404.php
+
+## Remove .php extension
+
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [L]

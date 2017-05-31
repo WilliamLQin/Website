@@ -6,9 +6,11 @@
 
   <?php include('php/header.php') ?>
 
-  <h1>
-    ayy lmao
-  </h1>
+  <div class="jumbotron vertical-center" style="margin-bottom: 0px">
+    <div class="container text-center">
+      <h1>Hi.</h1>
+    </div>
+  </div>
 
   <?php include('php/footer.php') ?>
 
