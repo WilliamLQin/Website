@@ -84,6 +84,11 @@ footer {
   </div>
   <div class="col-sm-1"></div>
   <div class="col-sm-12 text-center">
+    <a href="/index.php">
+      &nbsp; <span class="glyphicon glyphicon-circle-arrow-left"></span> &nbsp; Return to splash page.
+      <br>
+    </a>
+    <br>
     <h5>
       Copyright &copy William Qin 2016-17
     </h5>
