@@ -29,7 +29,6 @@ footer.container {
   padding: 50px;
   background-color: rgba(0,0,0,1);
   width: 100%;
-  width: 100vw;
 }
 
 footer [class*="col-"] {
@@ -85,7 +84,7 @@ footer {
   <div class="col-sm-1"></div>
   <div class="col-sm-12 text-center">
     <a href="/">
-      &nbsp; <span class="glyphicon glyphicon-circle-arrow-left"></span> &nbsp; Return to splash page.
+      &nbsp; <span class="glyphicon glyphicon-circle-arrow-left"></span> &nbsp; Return to splash page. (Desktop Only)
       <br>
     </a>
     <br>
