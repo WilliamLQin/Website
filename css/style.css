@@ -1,25 +1,12 @@
-@font-face {
-  font-family: "CaviarDreams";
-  src: url('/resources/Fonts/CaviarDreams.ttf') format("truetype");
-}
-@font-face {
-  font-family: "CaviarDreamsBold";
-  src: url('/resources/Fonts/Caviar Dreams Bold.ttf') format("truetype");
-}
-
-* {
-  font-family: "CaviarDreams", Verdana, sans-serif;
-}
-
-.bold{
-  font-family: "CaviarDreamsBold", Verdana, sans-serif;
+body div.jumbotron {
+  margin-bottom: 0px;
+  display: flex;
 }
 
 .vertical-center {
   min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
   min-height: 100vh; /* These two lines are counted as one :-)       */
 
-  display: flex;
   align-items: center;
 }
 
@@ -38,4 +25,28 @@ nav.navbar-inverse .navbar-nav>li>a {
 }
 nav.navbar-inverse .navbar-brand {
   color: #FFFFFF;
+}
+
+.bg-img {
+  background-size: cover;
+}
+
+.text-box {
+  color: #FFFFFF;
+
+  background-color: #000000;
+  border-style: solid;
+  border-width: 5px;
+
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 10px;
+
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.text-box.home-header {
+  width: 620px;
 }

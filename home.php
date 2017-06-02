@@ -6,9 +6,23 @@
 
   <?php include('php/header.php') ?>
 
-  <div class="jumbotron vertical-center" style="margin-bottom: 0px; background-image: url(/resources/Images/home.jpeg);">
-    <div class="container text-center">
-      <h1>Hi.</h1>
+  <div class="jumbotron vertical-center bg-img home">
+    <div class="text-box home-header">
+      <div class="col-xs-8">
+        <h2>William Qin</h2>
+        <hr>
+        <h2>Student & Developer</h2>
+      </div>
+      <div class="col-xs-4">
+      </div>
+    </div>
+  </div>
+
+  <div class="jumbotron">
+    <div class="text-center text-box">
+      <h1>
+        Yo.
+      </h1>
     </div>
   </div>
 

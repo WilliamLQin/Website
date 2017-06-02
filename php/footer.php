@@ -26,7 +26,7 @@ footer div.paragraph-position-center {
 
 footer.container {
   margin: 0px;
-  padding: 20px;
+  padding: 50px;
   background-color: rgba(0,0,0,1);
   width: 100%;
   width: 100vw;
