@@ -26,7 +26,7 @@ footer div.paragraph-position-center {
 
 footer.container {
   margin: 0px;
-  padding: 50px;
+  padding: 20px;
   background-color: rgba(0,0,0,1);
   width: 100%;
 }
@@ -83,11 +83,6 @@ footer {
   </div>
   <div class="col-sm-1"></div>
   <div class="col-sm-12 text-center">
-    <a href="/">
-      &nbsp; <span class="glyphicon glyphicon-circle-arrow-left"></span> &nbsp; Return to splash page. (Desktop Only)
-      <br>
-    </a>
-    <br>
     <h5>
       Copyright &copy William Qin 2016-17
     </h5>
