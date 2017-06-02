@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "CaviarDreams";
+  src: url('/resources/Fonts/CaviarDreams.ttf') format("truetype");
+}
+@font-face {
+  font-family: "CaviarDreamsBold";
+  src: url('/resources/Fonts/Caviar Dreams Bold.ttf') format("truetype");
+}
+
+* {
+  font-family: "CaviarDreams", Verdana, sans-serif;
+}
+
+.bold{
+  font-family: "CaviarDreamsBold", Verdana, sans-serif;
+}
+
+.home {
+  background-image: url('/resources/Images/home.jpeg');
+}
