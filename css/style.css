@@ -1,3 +1,7 @@
+html {
+  background-color: #000000;
+}
+
 body div.jumbotron {
   margin-bottom: 0px;
   display: flex;
@@ -32,4 +36,8 @@ body div.jumbotron {
 
 .text-box.home-header {
   width: 620px;
+}
+
+.text-spaced h1, .text-spaced h2, .text-spaced h3, .text-spaced h4, .text-spaced h5, .text-spaced h6 {
+  line-height: 1.4;
 }

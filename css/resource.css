@@ -15,6 +15,34 @@
   font-family: "CaviarDreamsBold", Verdana, sans-serif;
 }
 
-.home {
+div.page-home {
   background-image: url('/resources/Images/home.jpeg');
+}
+
+div.page-about {
+  background-image: url('/resources/Images/about.jpg');
+}
+
+div.page-blog {
+  background-image: url('/resources/Images/blog.jpeg');
+}
+
+div.page-contact {
+  background-image: url('/resources/Images/contact.jpg');
+}
+
+div.page-portfolio {
+  background-image: url('/resources/Images/portfolio.jpeg');
+}
+
+div.page-resume {
+  background-image: url('/resources/Images/resume.jpg');
+}
+
+div.page-timeline {
+  background-image: url('/resources/Images/timeline.jpg');
+}
+
+div.page-placeholder {
+  background-color: rgb(60, 60, 100);
 }

@@ -8,7 +8,7 @@
 <div class="index">
   <div class="col-3 height-5 stack hover-all">
     <div class="overlay">
-      <a href="portfolio.php" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
+      <a href="/portfolio.php" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
         <h3 class="overlay-header">
           Portfolio
         </h3>
@@ -19,7 +19,7 @@
 
   <div class="col-4 height-2 hover-all stack">
     <div class="overlay">
-      <a href="timeline.php" class="animated expand-container hidden-container button button-transparent button-border-white">
+      <a href="/timeline.php" class="animated expand-container hidden-container button button-transparent button-border-white">
         <h3 class="overlay-header">
           Timeline
         </h3>
@@ -30,7 +30,7 @@
 
   <div class="col-2 height-2 stack hover-all">
     <div class="overlay">
-      <a href="resume.php" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
+      <a href="/resume.php" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
         <h3 class="overlay-header">
           Resume
         </h3>
@@ -41,7 +41,7 @@
 
   <div class="col-3 height-4 right hover-all stack">
     <div class="overlay">
-      <a href="blog.php" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
+      <a href="/blog.php" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
         <h3 class="overlay-header">
           Blog
         </h3>
@@ -52,7 +52,7 @@
 
   <div class="col-6 height-3 stack hover-all">
     <div class="overlay">
-      <a href="home.php" class="animated expand-container hidden-container button button-white button-border-white">
+      <a href="/home.php" class="animated expand-container hidden-container button button-white button-border-white">
         <h1 class="title-name">
           Welcome
         </h1>
@@ -62,7 +62,7 @@
         </h2>
       </a>
     </div>
-    <a href="about.php" class="animated expand-container hide-container button button-transparent button-border-white">
+    <a href="/about.php" class="animated expand-container hide-container button button-transparent button-border-white">
       <h1 class="title-name">
         William Qin
       </h1>
@@ -75,7 +75,7 @@
 
   <div class="col-3 height-3 right hover-all stack">
     <div class="overlay">
-      <a href="contact.php" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
+      <a href="/contact.php" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
         <h3 class="overlay-header">
           Contact
         </h3>
@@ -97,7 +97,7 @@
 
   <div class="col-4 height-2 stack hover-all">
     <div class="overlay">
-      <a href="about.php" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
+      <a href="/about.php" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
         <h3 class="overlay-header">
           About
         </h3>

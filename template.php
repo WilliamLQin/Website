@@ -1,5 +1,5 @@
 <head>
-  <title>Home | William Qin</title>
+  <title>[Insert Nav Title Here] | William Qin</title>
   <?php include('php/imports.php') ?>
 </head>
 
@@ -9,12 +9,12 @@
 
   <div>
 
-    <div class="jumbotron vertical-center bg-img page-home">
+    <div class="jumbotron vertical-center bg-img page-placeholder">
       <div class="text-box home-header">
         <div class="col-xs-9">
-          <h2>William Qin</h2>
+          <h2>[Insert Main Title Here]</h2>
           <hr>
-          <h2>Student & Developer</h2>
+          <h2>[Insert Subtitle Here]</h2>
         </div>
         <div class="col-xs-3">
         </div>
@@ -22,10 +22,12 @@
     </div>
 
     <div class="jumbotron">
-      <div class="text-center text-box">
-        <h1>
-          Yo.
-        </h1>
+      <div class="container text-center text-spaced">
+        <h2>
+          Sorry! <br>
+          This page is currently under construction. <br>
+          Check back later!
+        </h2>
       </div>
     </div>
 
