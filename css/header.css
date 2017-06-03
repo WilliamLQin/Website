@@ -1,0 +1,16 @@
+header nav a {
+  font-size: 20px;
+}
+header nav .navbar-brand {
+  font-size: 20px;
+}
+header nav {
+  padding: 5px;
+}
+
+header nav.navbar-inverse .navbar-nav>li>a {
+  color: #c1c1c1;
+}
+header nav.navbar-inverse .navbar-brand {
+  color: #FFFFFF;
+}

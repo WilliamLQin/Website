@@ -1,51 +1,6 @@
-<style>
-
-footer img.logo-image {
-  width: 50px;
-  height: 50px;
-  margin: 10px;
-}
-
-footer a:hover {
-  text-decoration: none;
-  color: #c1c1c1;
-}
-
-footer a {
-  line-height: 1.8;
-  color: #b1b1b1;
-}
-
-footer p {
-  text-align: left;
-}
-
-footer div.paragraph-position-center {
-  margin-left: calc((100% - 240px)/2)
-}
-
-footer.container {
-  margin: 0px;
-  padding: 20px;
-  background-color: rgba(0,0,0,1);
-  width: 100%;
-}
-
-footer [class*="col-"] {
-  padding: 0;
-}
-
-footer {
-  color: #c1c1c1;
-}
-
-.bold{
-  font-family: "CaviarDreamsBold", Verdana, sans-serif;
-}
-
-</style>
-
 <footer class="container">
+  <link rel="stylesheet" href="/css/footer.css" type="text/css">
+
   <div class="col-sm-3"></div>
   <div class="col-sm-4 text-center">
     <a href="https://www.facebook.com/william.qin51">
@@ -83,7 +38,7 @@ footer {
   </div>
   <div class="col-sm-1"></div>
   <div class="col-sm-12 text-center">
-    <a href="/">
+    <a class="desktop-only" href="/">
       &nbsp; <span class="glyphicon glyphicon-circle-arrow-left"></span> &nbsp; Return to splash page.
       <br>
     </a>
