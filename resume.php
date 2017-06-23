@@ -108,11 +108,9 @@
         <h2>
           Interested in my resume?
           <br>
-          <div class="text-box">
-            <a href="contact.php" style="text-decoration: underline; color: rgb(120,120,255);">
-              Contact me!
-            </a>
-          </div>
+          <a href="contact.php" style="text-decoration: underline; color: rgb(120,120,255);">
+            Contact me!
+          </a>
           <br>
           You'll get a formal document in PDF/Word format.
         </h2>
