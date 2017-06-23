@@ -21,7 +21,7 @@
 
     <div class="jumbotron">
       <div class="container text-spaced">
-        <h2>
+        <h2 class="bold">
           Hi, I'm William Qin.
         </h2>
         <h3>
