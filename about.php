@@ -36,9 +36,9 @@
         <div class="col-sm-4">
           <?php
           $image_count = 4;
-          $image_random = rand(1, $image_count)
+          $image_random = rand(1, $image_count);
 
-          echo "<img src='/resources/Images/william$image_random.JPG"
+          echo "<img src='/resources/Images/william$image_random.JPG";
           ?>
           <!-- <img src="/resources/Images/william1.JPG"> -->
         </div>
