@@ -25,6 +25,7 @@
           <h2 class="bold">
             Connect with me!
           </h2>
+          <br>
         </div>
         <div class="col-sm-6">
           <img src="resources/Images/contact-email.png" alt="Envelope" style="width: 128px;">
@@ -35,6 +36,7 @@
             william.qin51@gmail.com
           </h3>
         </div>
+        <br>
         <div class="col-sm-6">
           <img src="resources/Images/contact-phone.png" alt="megaphone" style="width: 128px;">
           <h2>
