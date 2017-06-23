@@ -22,7 +22,7 @@
     <div class="jumbotron">
       <div class="container text-spaced">
 
-        <div class="col-sm-4">
+
           <div class="module">
             <div class="overlay">
               <a href="/portfolio.php" class="animated expand-container hidden-container button transparent-alt">
@@ -35,7 +35,7 @@
             </div>
             <img src="/resources/Splash/about-4by2.jpg" class="animated expand-image rounded border-black">
           </div>
-        </div>
+
 
       </div>
     </div>

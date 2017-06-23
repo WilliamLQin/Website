@@ -61,8 +61,8 @@ img {
 .module {
   margin: 0;
   position: relative;
-  width: 100%;
-  height: auto;
+  width: 400px;
+  height: 200px;
 }
 
 .animated {
@@ -103,13 +103,6 @@ img {
 .border-black {
   border-style: solid;
   border-color: black;
-}
-
-.stack {
-
-}
-.hover-all{
-
 }
 
 .overlay{
