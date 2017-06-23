@@ -130,25 +130,23 @@ img {
 }
 
 .expand-container {
-  padding: 5%;
-  width: 90%;
-  height: 90%;
-  margin: 0;
+  margin: 2%;
+  width: 96%;
+  height: 96%;
 }
 .hover-all:hover .expand-container {
-  padding: 0;
+  margin: 0;
   width: 100%;
   height: 100%;
 }
 
 .expand-image {
-  padding: 5%;
-  width: 90%;
-  height: 90%;
-  margin: 0;
+  margin: 2%;
+  width: 96%;
+  height: 96%;
 }
 .hover-all:hover .expand-image {
-  padding: 0;
+  margin: 0;
   width: 100%;
   height: 100%;
 }
