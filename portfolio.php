@@ -23,7 +23,7 @@
       <div class="container text-spaced">
         <div class="stack hover-all" style="width: 200px; height: 200px">
           <div class="overlay">
-            <a href="/portfolio.php" class="animated expand-container hidden-container button transparent-alt overlay-header">
+            <a href="/portfolio.php" class="animated expand-container hidden-container button transparent-alt">
               <h3>
                 Portfolio
               </h3>

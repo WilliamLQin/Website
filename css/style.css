@@ -112,14 +112,8 @@ img {
   height: 100%;
 }
 
-.overlay-header {
-  align-items: center;
-  margin: 0;
-}
-.overlay-text {
-  position: relative;
-  top: 80%;
-  margin: 0;
+.overlay a {
+  text-decoration: none;
 }
 
 .hidden-container {
