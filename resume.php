@@ -29,7 +29,7 @@
           To apply my abilities as a dedicated and proactive high school student in a part-time or temporary full-time entry level position within the information communication technology industry.
         </h3>
         <br>
-        <h2>
+        <h2 class class="bold"="bold">
           Skills and Qualifications
         </h2>
         <hr>
@@ -51,7 +51,7 @@
           • Lifesaving Society - Bronze Medallion, Bronze Cross, Emergency First Aid CPR-B & CPR-C
         </h3>
         <br>
-        <h2>
+        <h2 class="bold">
           Experience
         </h2>
         <hr>
@@ -79,7 +79,7 @@
           • Analyzed schedules, rules, and maps to do required job efficiently <br>
         </h3>
         <br>
-        <h2>
+        <h2 class="bold">
           Education
         </h2>
         <hr>
@@ -91,7 +91,7 @@
           &nbsp; &nbsp; Cumulative GPA: 4.0/4.0
         </h3>
         <br>
-        <h2>
+        <h2 class="bold">
           Personal Achievements
         </h2>
         <hr>
