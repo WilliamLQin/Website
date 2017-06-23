@@ -23,12 +23,12 @@
       <div class="container text-spaced">
         <h1>
           <?php
-            echo file_get_contents('/resources/Text/about-header.txt', FILE_USE_INCLUDE_PATH)
+            echo file_get_contents('resources/Text/about-header.txt', FILE_USE_INCLUDE_PATH)
           ?>
         </h1>
         <h3>
           <?php
-            echo file_get_contents('/resources/Text/about-body.txt', FILE_USE_INCLUDE_PATH);
+            echo file_get_contents('resources/Text/about-body.txt', FILE_USE_INCLUDE_PATH);
           ?>
           asdf
         </h3>
