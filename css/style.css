@@ -58,6 +58,13 @@ img {
 
 /* Module stuff */
 
+.module {
+  margin: 0;
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
 .animated {
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s;
@@ -99,7 +106,7 @@ img {
 }
 
 .stack {
-  position: relative;
+
 }
 .hover-all{
 
@@ -137,13 +144,13 @@ img {
 .hidden-container {
   opacity: 0.0;
 }
-.hover-all:hover .hidden-container{
+.module:hover .hidden-container{
   opacity: 1.0;
 }
 .hide-container {
   opacity: 1.0;
 }
-.hover-all:hover .hide-container{
+.module:hover .hide-container{
   opacity: 0.0;
 }
 
@@ -152,7 +159,7 @@ img {
   width: 96%;
   height: 96%;
 }
-.hover-all:hover .expand-container {
+.module:hover .expand-container {
   margin: 0;
   width: 100%;
   height: 100%;
@@ -163,7 +170,7 @@ img {
   width: 96%;
   height: 96%;
 }
-.hover-all:hover .expand-image {
+.module:hover .expand-image {
   margin: 0;
   width: 100%;
   height: 100%;

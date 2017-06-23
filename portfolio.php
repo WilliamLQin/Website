@@ -21,18 +21,22 @@
 
     <div class="jumbotron">
       <div class="container text-spaced">
-        <div class="stack hover-all" style="width: 400px; height: 200px">
-          <div class="overlay">
-            <a href="/portfolio.php" class="animated expand-container hidden-container button transparent-alt">
-              <div class="overlay-header">
-                <h3>
-                  Portfolio
-                </h3>
-              </div>
-            </a>
+
+        <div class="col-sm-4">
+          <div class="module">
+            <div class="overlay">
+              <a href="/portfolio.php" class="animated expand-container hidden-container button transparent-alt">
+                <div class="overlay-header">
+                  <h3>
+                    Portfolio
+                  </h3>
+                </div>
+              </a>
+            </div>
+            <img src="/resources/Splash/about-4by2.jpg" class="animated expand-image rounded border-black">
           </div>
-          <img src="/resources/Splash/about-4by2.jpg" class="animated expand-image rounded border-black">
         </div>
+
       </div>
     </div>
 
