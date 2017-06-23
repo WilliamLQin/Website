@@ -21,7 +21,7 @@
 
     <div class="jumbotron">
       <div class="container text-spaced">
-        <div class="col-sm-8">
+        <div class="col-sm-6">
           <h2 class="bold">
             Hi, I'm William Qin.
           </h2>
@@ -33,12 +33,12 @@
             Outside from active development, I like to play music, do martial arts, snowboard in the winter, and absorb all kinds of art.
           </h3>
         </div>
-        <div class="col-sm-4">
+        <div class="col-sm-6">
           <?php
-          // $image_count = 4;
-          // $image_random = rand(1, $image_count);
-          //
-          // echo "<img src='/resources/Images/william$image_random.JPG>";
+          $image_count = 4;
+          $image_random = rand(1, $image_count);
+
+          echo "<img src='/resources/Images/william$image_random.JPG>";
           ?>
           <img src="/resources/Images/william1.JPG">
         </div>
