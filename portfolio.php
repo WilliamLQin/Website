@@ -23,13 +23,13 @@
       <div class="container text-spaced">
         <div class="stack hover-all" style="width: 200px; height: 200px">
           <div class="overlay">
-            <a href="/portfolio.php" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
+            <a href="/portfolio.php" class="animated expand-container hidden-container button transparent-alt">
               <h3 class="overlay-header">
                 Portfolio
               </h3>
             </a>
           </div>
-          <img src="/resources/Splash/contact-1by1.jpg" class="animated expand-image rounded">
+          <img src="/resources/Splash/contact-1by1.jpg" class="animated expand-image rounded border-white">
         </div>
       </div>
     </div>
