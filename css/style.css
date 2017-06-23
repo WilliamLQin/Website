@@ -115,11 +115,19 @@ img {
   position: absolute;
   top: calc(50% - 20px);
   height: 40px;
+  width: 100%;
+}
+.overlay-header * {
+  margin: 0;
 }
 .overlay-text{
   position: absolute;
   top: calc(90% - 20px);
   height: 40px;
+  width: 100%
+}
+.overlay-header * {
+  margin: 0;
 }
 
 .overlay a {
