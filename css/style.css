@@ -13,7 +13,7 @@ img {
 }
 
 .jumbotron hr {
-  border-top: 1px solid inherit;
+  border-top-color: inherit;
 }
 
 .vertical-center {
