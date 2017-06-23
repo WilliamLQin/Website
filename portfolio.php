@@ -20,12 +20,17 @@
     </div>
 
     <div class="jumbotron">
-      <div class="container text-center text-spaced">
-        <h2>
-          Sorry! <br>
-          This page is currently under construction. <br>
-          Check back later!
-        </h2>
+      <div class="container text-spaced">
+        <div class="stack hover-all">
+          <div class="overlay">
+            <a href="/portfolio.php" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
+              <h3 class="overlay-header">
+                Portfolio
+              </h3>
+            </a>
+          </div>
+          <img src="/resources/Splash/portfolio-3by5.jpeg" alt="portfolio" class="animated expand-image rounded">
+        </div>
       </div>
     </div>
 
