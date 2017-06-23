@@ -27,7 +27,7 @@
           </h2>
         </div>
         <div class="col-sm-6">
-          <img src="resources/Images/contact-email.png" alt="Envelope">
+          <img src="resources/Images/contact-email.png" alt="Envelope" style="width: 128px;">
           <h2>
             E-mail
           </h2>
@@ -36,7 +36,7 @@
           </h3>
         </div>
         <div class="col-sm-6">
-          <img src="resources/Images/contact-phone.png" alt="megaphone">
+          <img src="resources/Images/contact-phone.png" alt="megaphone" style="width: 128px;">
           <h2>
             Phone
           </h2>
