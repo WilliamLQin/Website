@@ -27,6 +27,7 @@
   <div class="col-sm-4">
     <h4 class="bold">Explore</h4>
     <p>
+      <a href="/">Home</a> <br>
       <a href="/about.php">About</a> <br>
       <a href="/portfolio.php">Portfolio</a> <br>
       <a href="/resume.php">Resume</a> <br>
