@@ -40,7 +40,7 @@
 
           echo "<img src='/resources/Images/william$image_random.JPG/>";
           ?>
-          <!-- <img src="/resources/Images/william1.JPG"> -->
+          <img src="/resources/Images/william1.JPG">
         </div>
       </div>
     </div>
