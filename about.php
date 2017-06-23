@@ -20,12 +20,18 @@
     </div>
 
     <div class="jumbotron">
-      <div class="container text-center text-spaced">
-        <h2>
-          Sorry! <br>
-          This page is currently under construction. <br>
-          Check back later!
-        </h2>
+      <div class="container text-spaced">
+        <h1>
+          <?php
+            echo file_get_contents('/resources/Text/about-header.txt', FILE_USE_INCLUDE_PATH)
+          ?>
+        </h1>
+        <h3>
+          <?php
+            echo file_get_contents('/resources/Text/about-body.txt', FILE_USE_INCLUDE_PATH);
+          ?>
+          asdf
+        </h3>
       </div>
     </div>
 
