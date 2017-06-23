@@ -22,9 +22,26 @@
     <div class="jumbotron">
       <div class="container text-center text-spaced">
         <h2>
-          Sorry! <br>
-          This page is currently under construction. <br>
-          Check back later!
+          Employment Goal
+        </h2>
+        <hr noshade>
+        <h2>
+          Skills and Qualifications
+        </h2>
+        <hr noshade>
+      </div>
+    </div>
+
+    <div class="jumbotron section-blue">
+      <div class="container text-center text-spaced">
+        <h2>
+          Interested in my resume?
+          <br>
+          <a href="contact.php" style="text-decoration: underline; color: rgb(120,120,255);">
+            Contact me!
+          </a>
+          <br>
+          You'll get a formal document in PDF/Word format.
         </h2>
       </div>
     </div>
