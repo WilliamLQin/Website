@@ -24,9 +24,11 @@
         <div class="stack hover-all" style="width: 200px; height: 200px">
           <div class="overlay">
             <a href="/portfolio.php" class="animated expand-container hidden-container button transparent-alt">
-              <h3>
-                Portfolio
-              </h3>
+              <div class="vertical-center">
+                <h3>
+                  Portfolio
+                </h3>
+              </div>
             </a>
           </div>
           <img src="/resources/Splash/contact-1by1.jpg" class="animated expand-image rounded border-white">
