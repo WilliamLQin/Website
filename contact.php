@@ -21,10 +21,8 @@
 
     <div class="jumbotron">
       <div class="container text-center text-spaced">
-        <h2>
-          Sorry! <br>
-          This page is currently under construction. <br>
-          Check back later!
+        <h2 class="bold">
+          Connect with me!
         </h2>
       </div>
     </div>
