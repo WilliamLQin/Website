@@ -29,7 +29,7 @@
           To apply my abilities as a dedicated and proactive high school student in a part-time or temporary full-time entry level position within the information communication technology industry.
         </h3>
         <br>
-        <h2 class class="bold"="bold">
+        <h2 class class="bold">
           Skills and Qualifications
         </h2>
         <hr>
