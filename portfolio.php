@@ -21,7 +21,7 @@
 
     <div class="jumbotron">
       <div class="container text-spaced">
-        <div class="stack hover-all" style="width: 200px; height: 200px">
+        <div class="stack hover-all" style="width: 400px; height: 200px">
           <div class="overlay">
             <a href="/portfolio.php" class="animated expand-container hidden-container button transparent-alt">
               <div class="overlay-header">
@@ -31,7 +31,7 @@
               </div>
             </a>
           </div>
-          <img src="/resources/Splash/contact-1by1.jpg" class="animated expand-image rounded border-white">
+          <img src="/resources/Splash/about-4by2.jpg" class="animated expand-image rounded border-black">
         </div>
       </div>
     </div>
