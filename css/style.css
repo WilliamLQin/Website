@@ -12,7 +12,7 @@ img {
   height: auto;
 }
 
-hr {
+.jumbotron hr {
   border-color: inherit;
 }
 
