@@ -24,15 +24,15 @@
         <h2>
           Employment Goal
         </h2>
-        <hr noshade>
+        <hr>
         <h3>
           To apply my abilities as a dedicated and proactive high school student in a part-time or temporary full-time entry level position within the information communication technology industry.
         </h3>
-
+        <br>
         <h2>
           Skills and Qualifications
         </h2>
-        <hr noshade>
+        <hr>
         <h3>
           • Knowledge of C# (Unity), Python, Web Development (HTML, CSS, JavaScript, Bootstrap, jQuery), and Java (Eclipse)
           <br>
@@ -50,11 +50,11 @@
           <br>
           • Lifesaving Society - Bronze Medallion, Bronze Cross, Emergency First Aid CPR-B & CPR-C
         </h3>
-
+        <br>
         <h2>
           Experience
         </h2>
-        <hr noshade>
+        <hr>
         <h3>
           Senior Programmer <br>
           FRC Team 1325 - Mississauga, Ontario <br>
@@ -78,11 +78,11 @@
           • Collaborated with co-workers to effectively complete tasks in a timely manner <br>
           • Analyzed schedules, rules, and maps to do required job efficiently <br>
         </h3>
-
+        <br>
         <h2>
           Education
         </h2>
-        <hr noshade>
+        <hr>
         <h3>
           International Business Technology Program <br>
           Gordon Graydon Memorial Secondary School - Mississauga, Ontario <br>
@@ -90,11 +90,11 @@
           September 2015 - present <br>
           &nbsp; &nbsp; Cumulative GPA: 4.0/4.0
         </h3>
-
+        <br>
         <h2>
           Personal Achievements
         </h2>
-        <hr noshade>
+        <hr>
         <h3>
           • Winner of Best Overall Hack w/ Mentor at Cipher Local Hack Day 2016 <br>
           • 1st Place Winner in Business Services Operations Research at DECA Ontario Provincial Competition <br>
