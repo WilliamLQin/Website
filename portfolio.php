@@ -22,7 +22,7 @@
     <div class="jumbotron">
       <div class="container text-spaced">
 
-        <div class="col-xs-3 module-container module-1by1">
+        <div class="module-container module-1by1" style="width: 30vw;">
           <div class="module">
             <div class="overlay">
               <a href="#/" id="laserfield" class="animated expand-container hidden-container button transparent">
@@ -37,7 +37,7 @@
           </div>
         </div>
 
-        <div class="col-xs-3 module-container module-1by1">
+        <div class="module-container module-1by1" style="width: 30vw;">
           <div class="module">
             <div class="overlay">
               <a href="#/" id="stux" class="animated expand-container hidden-container button transparent">
@@ -52,6 +52,14 @@
           </div>
         </div>
 
+      </div>
+    </div>
+
+    <div class="jumbotron section-darkgreen">
+      <div class="container text-spaced">
+        <h2 id="show-portfolio">
+          Yo.
+        </h2>
       </div>
     </div>
 
