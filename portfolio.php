@@ -22,48 +22,33 @@
     <div class="jumbotron">
       <div class="container text-spaced">
 
-        <div class="col-sm-4 module-container module-2by1">
+        <div class="col-sm-3 module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="/home.php" class="animated expand-container hidden-container button transparent-alt">
+              <a id="laserfield" class="animated expand-container hidden-container button transparent-alt">
                 <div class="overlay-header">
                   <h3>
-                    Look!
+                    Laser Field
                   </h3>
                 </div>
               </a>
             </div>
-            <img src="/resources/Splash/about-4by2.jpg" class="animated expand-image rounded border-black">
+            <img src="/resources/Images/laserfield1.png" class="animated expand-image rounded border-black">
           </div>
         </div>
 
-        <div class="col-sm-4 module-container module-1by1">
+        <div class="col-sm-3 module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="/home.php" class="animated expand-container hidden-container button transparent-alt">
+              <a id="stux" class="animated expand-container hidden-container button transparent-alt">
                 <div class="overlay-header">
                   <h3>
-                    Look!
+                    Stux
                   </h3>
                 </div>
               </a>
             </div>
-            <img src="/resources/Splash/contact-1by1.jpg" class="animated expand-image rounded border-black">
-          </div>
-        </div>
-
-        <div class="col-sm-4 module-container module-3by5">
-          <div class="module">
-            <div class="overlay">
-              <a href="/home.php" class="animated expand-container hidden-container button transparent-alt">
-                <div class="overlay-header">
-                  <h3>
-                    Look!
-                  </h3>
-                </div>
-              </a>
-            </div>
-            <img src="/resources/Splash/portfolio-3by5.jpeg" class="animated expand-image rounded border-black">
+            <img src="/resources/Images/stux1.png" class="animated expand-image rounded border-black">
           </div>
         </div>
 
