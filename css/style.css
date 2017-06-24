@@ -160,6 +160,7 @@ div .module-container.module-3by5:before {
 }
 .overlay-header * {
   margin: 0;
+  color: inherit;
 }
 
 .overlay a {
