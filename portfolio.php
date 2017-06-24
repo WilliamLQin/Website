@@ -25,7 +25,7 @@
         <div class="col-sm-3 module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a id="laserfield" class="animated expand-container hidden-container button transparent-alt">
+              <a id="laserfield" class="animated expand-container hidden-container button transparent">
                 <div class="overlay-header">
                   <h3>
                     Laser Field
@@ -40,7 +40,7 @@
         <div class="col-sm-3 module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a id="stux" class="animated expand-container hidden-container button transparent-alt">
+              <a id="stux" class="animated expand-container hidden-container button transparent">
                 <div class="overlay-header">
                   <h3>
                     Stux
