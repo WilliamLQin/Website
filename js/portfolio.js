@@ -1,11 +1,12 @@
 $(document).ready(function(){
 
-  $("#content-" + $(this).name).show();
+  $("[id^='content']").hide();
+  $("#content-laserfield").show();
 
   $("#changer").click(function(){
 
     $("[id^='content']").hide();
-    $("#content-" + $(this).name).show();
+    $("#content-" + $(this).attr("name")).show();
 
   });
 
