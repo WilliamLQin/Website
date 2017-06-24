@@ -19,13 +19,11 @@
       </div>
     </div>
 
-    <script src="/js/moduleheight.js"></script>
-
     <div class="jumbotron">
       <div class="container text-spaced">
 
         <div class="col-sm-4 module-container">
-          <div class="module module-2by1">
+          <div class="module">
             <div class="overlay">
               <a href="/home.php" class="animated expand-container hidden-container button transparent-alt">
                 <div class="overlay-header">
@@ -40,7 +38,7 @@
         </div>
 
         <div class="col-sm-4 module-container">
-          <div class="module module-1by1">
+          <div class="module">
             <div class="overlay">
               <a href="/home.php" class="animated expand-container hidden-container button transparent-alt">
                 <div class="overlay-header">
@@ -55,7 +53,7 @@
         </div>
 
         <div class="col-sm-4 module-container">
-          <div class="module module-3by5">
+          <div class="module">
             <div class="overlay">
               <a href="/home.php" class="animated expand-container hidden-container button transparent-alt">
                 <div class="overlay-header">
