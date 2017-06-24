@@ -82,7 +82,7 @@
 
         <div id="content-stux">
           <div class="col-sm-6">
-            <h2>
+            <h2 class="bold">
               iOS App - Stux
             </h2>
             <h3>
