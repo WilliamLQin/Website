@@ -22,10 +22,14 @@
     <div class="jumbotron">
       <div class="container text-center text-spaced special-modules">
 
+        <h2 class="bold">
+          Here, you'll find a gallery of my projects!
+        </h2>
+
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="#/" id="laserfield" class="animated expand-container hidden-container button transparent">
+              <a href="#/" id="changer" name="laserfield" class="animated expand-container hidden-container button transparent">
                 <div class="overlay-header">
                   <h3>
                     Laser Field
@@ -40,7 +44,7 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="#/" id="stux" class="animated expand-container hidden-container button transparent">
+              <a href="#/" id="changer" name="stux" class="animated expand-container hidden-container button transparent">
                 <div class="overlay-header">
                   <h3>
                     Stux
@@ -57,12 +61,39 @@
 
     <div class="jumbotron section-darkgreen">
       <div class="container text-spaced">
-        <h2 id="show-portfolio" class="bold">
-          Yo.
-        </h2>
-        <h3 id="show-content">
+        <div id="content-laserfield">
+          <h2 class="bold">
+            iOS App - Laser Field
+          </h2>
+          <div class="col-sm-6">
+            <h3>
+              "Dodge lasers in this new and amazing bounding game!" <br>
+            </h3>
+            <p>
+              Unfortunately, you can't find this on the App Store anymore.
+            </p>
+          </div>
+          <div class="col-sm-6">
+            <img src="resources/Images/laserfield2.png">
+          </div>
+        </div>
 
-        </h3>
+        <div id="content-stux">
+          <h2>
+            iOS App - Stux
+          </h2>
+          <div class="col-sm-6">
+            <h3>
+              "Balance blocks in this new and incredible arcade stacker!" <br>
+            </h3>
+            <p>
+              Unfortunately, you can't find this on the App Store anymore
+            </p>
+          </div>
+          <div class="col-sm-6">
+            <img src="resource/Images/stux2.png">
+          </div>
+        </div>
       </div>
     </div>
 
