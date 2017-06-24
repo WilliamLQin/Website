@@ -52,14 +52,32 @@
           </div>
         </div>
 
+        <div class="module-container module-1by1" style="width: 30vw;">
+          <div class="module">
+            <div class="overlay">
+              <a href="#/" id="stux" class="animated expand-container hidden-container button transparent">
+                <div class="overlay-header">
+                  <h3>
+                    Placeholder
+                  </h3>
+                </div>
+              </a>
+            </div>
+            <img src="/resources/Images/contact.jpg" class="animated expand-image rounded border-black">
+          </div>
+        </div>
+
       </div>
     </div>
 
     <div class="jumbotron section-darkgreen">
       <div class="container text-spaced">
-        <h2 id="show-portfolio">
+        <h2 id="show-portfolio" class="bold">
           Yo.
         </h2>
+        <h3 id="show-content">
+
+        </h3>
       </div>
     </div>
 
