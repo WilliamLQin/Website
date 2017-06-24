@@ -20,7 +20,7 @@
     </div>
 
     <div class="jumbotron">
-      <div class="container text-spaced">
+      <div class="container text-spaced special-modules">
 
         <div class="module-container module-1by1" style="width: 24vw;">
           <div class="module">
