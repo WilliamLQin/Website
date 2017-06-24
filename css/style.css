@@ -65,8 +65,6 @@ div .module-container {
 .module {
   margin: 0;
   position: relative;
-  width: 100%;
-  padding: 40%;
   box-sizing: border-box;
 }
 
