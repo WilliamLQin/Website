@@ -60,11 +60,11 @@ img {
 
 div .module-container {
   margin: 0;
+  position: relative;
 }
 
 .module {
   margin: 0;
-  margin-top: 75%;
   position: relative;
   box-sizing: border-box;
 }
