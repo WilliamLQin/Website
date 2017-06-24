@@ -19,11 +19,13 @@
       </div>
     </div>
 
+    <script src="/js/moduleheight.js"></script>
+
     <div class="jumbotron">
       <div class="container text-spaced">
 
         <div class="col-sm-4 module-container">
-          <div class="module">
+          <div class="module module-2by1">
             <div class="overlay">
               <a href="/portfolio.php" class="animated expand-container hidden-container button transparent-alt">
                 <div class="overlay-header">
