@@ -58,6 +58,11 @@ img {
 
 /* Module stuff */
 
+.container.special-modules {
+  margin: 0;
+  padding: 0 9vw;
+}
+
 div .module-container {
   margin: 0;
   padding: 0;
