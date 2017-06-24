@@ -60,13 +60,29 @@ img {
 
 div .module-container {
   margin: 0;
+  padding: 0;
   position: relative;
 }
 
-div .module-container:before {
+div .module-container.module-1by1:before {
   content: "";
   display: block;
   padding-top: 100%;
+}
+div .module-container.module-2by1:before {
+  content: "";
+  display: block;
+  padding-top: 50%;
+}
+div .module-container.module-3by4:before {
+  content: "";
+  display: block;
+  padding-top: 133.33%;
+}
+div .module-container.module-3by5:before {
+  content: "";
+  display: block;
+  padding-top: 166.67%;
 }
 
 .module {
