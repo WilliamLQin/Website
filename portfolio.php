@@ -65,7 +65,7 @@
                 </div>
               </a>
             </div>
-            <img src="/resources/Splash/portfolio-3by6.jpeg" class="animated expand-image rounded border-black">
+            <img src="/resources/Splash/portfolio-3by5.jpeg" class="animated expand-image rounded border-black">
           </div>
         </div>
 
