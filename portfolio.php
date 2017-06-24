@@ -22,7 +22,7 @@
     <div class="jumbotron">
       <div class="container text-spaced">
 
-        <div class="col-sm-3 module-container module-1by1">
+        <div class="col-xs-3 module-container module-1by1">
           <div class="module">
             <div class="overlay">
               <a href="#" id="laserfield" class="animated expand-container hidden-container button transparent">
@@ -37,12 +37,12 @@
           </div>
         </div>
 
-        <div class="col-sm-3 module-container module-1by1">
+        <div class="col-xs-3 module-container module-1by1">
           <div class="module">
             <div class="overlay">
               <a href="#" id="stux" class="animated expand-container hidden-container button transparent">
                 <div class="overlay-header">
-                  <h3>
+                  <h3 style="color: #000000">
                     Stux
                   </h3>
                 </div>
