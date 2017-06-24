@@ -88,15 +88,16 @@
             <h3>
               A virtual reality simulator for basic CPR training! <br>
               "Our app gamifies a basic CPR procedure, making it easily accessible with Google Cardboard!" <br>
-              Programmed in C# with Unity.
-              Used Google Cardboard, Leap Motion, and SketchUp.
-              Made with Ming (Michelle) Yi, Aanand Bajaj, and Samuel Sun.
+              Programmed in C# with Unity. <br>
+              Used Google Cardboard, Leap Motion, and SketchUp. <br>
+              Made with Ming (Michelle) Yi, Aanand Bajaj, and Samuel Sun. <br>
             </h3>
             <br>
             <p>
-              Learn more about this project <a href="https://www.hackerearth.com/fr/sprints/uofthacks-iv/dashboard/UofTTeam1/submission/">here</a>.<br>
+              Learn more about this project <a href="https://www.hackerearth.com/fr/sprints/uofthacks-iv/dashboard/UofTTeam1/submission/">here</a>. <br>
             </p>
           </div>
+          <br>
           <div class="col-sm-6">
             <img src="resources/Images/CPRVR2.jpg">
           </div>
@@ -115,9 +116,10 @@
             </h3>
             <br>
             <p>
-              (Unfortunately, you can't find this on the App Store anymore.)
+              (Unfortunately, you can't find this on the App Store anymore.) <br>
             </p>
           </div>
+          <br>
           <div class="col-sm-6">
             <img src="resources/Images/stux2.png">
           </div>
@@ -136,9 +138,10 @@
             </h3>
             <br>
             <p>
-              (Unfortunately, you can't find this on the App Store anymore.)
+              (Unfortunately, you can't find this on the App Store anymore.) <br>
             </p>
           </div>
+          <br>
           <div class="col-sm-6">
             <img src="resources/Images/laserfield2.png">
           </div>

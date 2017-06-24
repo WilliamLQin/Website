@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
   $("[id^='content']").hide();
-  $("#content-laserfield").show();
+  $("#content-cprvr").show();
 
   $("[id^='changer']").click(function(){
 
