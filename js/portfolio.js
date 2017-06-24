@@ -1,4 +1,6 @@
-$(document).ready(){
+$(document).ready(function(){
+
+  $("#content-" + $(this).name).show();
 
   $("#changer").click(function(){
 
@@ -7,4 +9,4 @@ $(document).ready(){
 
   })
 
-}
+})
