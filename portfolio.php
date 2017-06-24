@@ -59,13 +59,15 @@
       </div>
     </div>
 
+    <script src="/js/portfolio.js"></script>
+
     <div class="jumbotron section-darkgreen">
       <div class="container text-spaced">
         <div id="content-laserfield">
-          <h2 class="bold">
-            iOS App - Laser Field
-          </h2>
           <div class="col-sm-6">
+            <h2 class="bold">
+              iOS App - Laser Field
+            </h2>
             <h3>
               "Dodge lasers in this new and amazing bounding game!" <br>
             </h3>
@@ -79,19 +81,19 @@
         </div>
 
         <div id="content-stux">
-          <h2>
-            iOS App - Stux
-          </h2>
           <div class="col-sm-6">
+            <h2>
+              iOS App - Stux
+            </h2>
             <h3>
               "Balance blocks in this new and incredible arcade stacker!" <br>
             </h3>
             <p>
-              Unfortunately, you can't find this on the App Store anymore
+              Unfortunately, you can't find this on the App Store anymore.
             </p>
           </div>
           <div class="col-sm-6">
-            <img src="resource/Images/stux2.png">
+            <img src="resources/Images/stux2.png">
           </div>
         </div>
       </div>
