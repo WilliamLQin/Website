@@ -45,6 +45,21 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
+              <a href="#/" id="changer" name="popmidi" class="animated expand-container hidden-container button transparent">
+                <div class="overlay-header">
+                  <h3>
+                    Pop MIDI
+                  </h3>
+                </div>
+              </a>
+            </div>
+            <img src="/resources/Images/popmidi1.jpg" class="animated expand-image rounded border-black">
+          </div>
+        </div>
+
+        <div class="module-container module-1by1">
+          <div class="module">
+            <div class="overlay">
               <a href="#/" id="changer" name="stux" class="animated expand-container hidden-container button transparent">
                 <div class="overlay-header">
                   <h3>
@@ -85,15 +100,14 @@
             <h2 class="bold">
               Unity App - CPR-VR
             </h2>
-            <h3>
+            <p>
               A virtual reality simulator for basic CPR training! <br>
               "Our app gamifies a basic CPR procedure, making it easily accessible with Google Cardboard!" <br>
               Programmed in C# with Unity. <br>
               Used Google Cardboard, Leap Motion, and SketchUp. <br>
               Made with Ming (Michelle) Yi, Aanand Bajaj, and Samuel Sun. <br>
-            </h3>
-            <br>
-            <p>
+              Won Top 10 Overall Hack! (Out of ~80 teams) <br>
+              <br>
               Learn more about this project <a href="https://www.hackerearth.com/fr/sprints/uofthacks-iv/dashboard/UofTTeam1/submission/">here</a>. <br>
             </p>
           </div>
@@ -103,19 +117,39 @@
           </div>
         </div>
 
+        <div id="content-popmidi">
+          <div class="col-sm-6">
+            <h2 class="bold">
+              Hardware Creation - Pop MIDI
+            </h2>
+            <p>
+              A pop can music box that can play MIDI files! <br>
+              "This instrument brings a new sense of fun and uniqueness with its cool resonating sound and eco-friendly nature!" <br>
+              Hardware programmed in C/C++ with Arduino. <br>
+              MIDI file reader programmed in Python. <br>
+              Made with Simon (Zirui) Guo and Samuel Sun. <br>
+              Won Best Overall Hack with Mentor! (Out of ~20 teams) <br>
+              <br>
+              Learn more about this project <a href="https://devpost.com/software/popmidi">here</a>. <br>
+            </p>
+          </div>
+          <br>
+          <div class="col-sm-6">
+            <img src="resources/Images/popmidi2.jpg">
+          </div>
+        </div>
+
         <div id="content-stux">
           <div class="col-sm-6">
             <h2 class="bold">
               iOS App - Stux
             </h2>
-            <h3>
+            <p>
               An engaging and minimalistic stacking game! <br>
               "Balance blocks in this new and incredible arcade stacker!" <br>
               Programmed in Objective-C. <br>
               Made by myself. <br>
-            </h3>
-            <br>
-            <p>
+              <br>
               (Unfortunately, you can't find this on the App Store anymore.) <br>
             </p>
           </div>
@@ -130,14 +164,12 @@
             <h2 class="bold">
               iOS App - Laser Field
             </h2>
-            <h3>
+            <p>
               A simple bounding game - you control your character with your finger! <br>
               "Dodge lasers in this new and amazing bounding game!" <br>
               Programmed in Objective-C <br>
               Made by myself. <br>
-            </h3>
-            <br>
-            <p>
+              <br>
               (Unfortunately, you can't find this on the App Store anymore.) <br>
             </p>
           </div>
