@@ -103,9 +103,12 @@
             <p>
               A virtual reality simulator for basic CPR training! <br>
               "Our app gamifies a basic CPR procedure, making it easily accessible with Google Cardboard!" <br>
+              <br>
               Programmed in C# with Unity. <br>
               Used Google Cardboard, Leap Motion, and SketchUp. <br>
               Made with Ming (Michelle) Yi, Aanand Bajaj, and Samuel Sun. <br>
+              <br>
+              Submission for 36-hour hackathon UofTHacks IV. <br>
               Won Top 10 Overall Hack! (Out of ~80 teams) <br>
               <br>
               Learn more about this project <a href="https://www.hackerearth.com/fr/sprints/uofthacks-iv/dashboard/UofTTeam1/submission/">here</a>. <br>
@@ -125,9 +128,12 @@
             <p>
               A pop can music box that can play MIDI files! <br>
               "This instrument brings a new sense of fun and uniqueness with its cool resonating sound and eco-friendly nature!" <br>
+              <br>
               Hardware programmed in C/C++ with Arduino. <br>
               MIDI file reader programmed in Python. <br>
               Made with Simon (Zirui) Guo and Samuel Sun. <br>
+              <br>
+              Submission for 12-hour hackathon Cipher Local Hack Day. <br>
               Won Best Overall Hack with Mentor! (Out of ~20 teams) <br>
               <br>
               Learn more about this project <a href="https://devpost.com/software/popmidi">here</a>. <br>
