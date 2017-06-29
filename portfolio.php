@@ -153,6 +153,7 @@
             <p>
               An engaging and minimalistic stacking game! <br>
               "Balance blocks in this new and incredible arcade stacker!" <br>
+              <br>
               Programmed in Objective-C. <br>
               Made by myself. <br>
               <br>
@@ -173,6 +174,7 @@
             <p>
               A simple bounding game - you control your character with your finger! <br>
               "Dodge lasers in this new and amazing bounding game!" <br>
+              <br>
               Programmed in Objective-C <br>
               Made by myself. <br>
               <br>

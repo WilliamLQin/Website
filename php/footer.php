@@ -27,13 +27,13 @@
   <div class="col-sm-4">
     <h4 class="bold">Explore</h4>
     <p>
-      <a href="/home.php">Home</a> <br>
-      <a href="/about.php">About</a> <br>
-      <a href="/portfolio.php">Portfolio</a> <br>
-      <a href="/resume.php">Resume</a> <br>
-      <a href="/blog.php">Blog</a> <br>
-      <a href="/timeline.php">Timeline</a> <br>
-      <a href="/contact.php">Contact</a> <br>
+      <a href="/home">Home</a> <br>
+      <a href="/about">About</a> <br>
+      <a href="/portfolio">Portfolio</a> <br>
+      <a href="/resume">Resume</a> <br>
+      <a href="/blog">Blog</a> <br>
+      <a href="/timeline">Timeline</a> <br>
+      <a href="/contact">Contact</a> <br>
     </p>
     <br>
   </div>
