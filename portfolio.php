@@ -135,8 +135,6 @@
               Made with Andrew Wang. <br>
               <br>
               Short side project created for fun!
-              <br>
-              Learn more about this project <a href="https://www.hackerearth.com/fr/sprints/uofthacks-iv/dashboard/UofTTeam1/submission/">here</a>. <br>
             </p>
           </div>
           <br>
