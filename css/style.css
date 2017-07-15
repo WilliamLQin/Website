@@ -77,15 +77,15 @@ div .module-container.module-1by1:before {
   padding-top: 100%;
 
   width: 17vw;
-  min-width: 130px;
+  min-width: 140px;
 }
-div .module-container.module-2by1:before {
+/*div .module-container.module-2by1:before {
   content: "";
   display: block;
   padding-top: 50%;
 
   width: 34vw;
-}
+}*/
 
 .module {
   margin: 0;
