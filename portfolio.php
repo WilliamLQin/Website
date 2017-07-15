@@ -30,6 +30,21 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
+              <a href="#/" id="changer" name="fihgt" class="animated expand-container hidden-container button transparent">
+                <div class="overlay-header">
+                  <h3>
+                    Fihgt
+                  </h3>
+                </div>
+              </a>
+            </div>
+            <img src="/resources/Images/fihgt1.jpg" class="animated expand-image rounded border-black">
+          </div>
+        </div>
+
+        <div class="module-container module-1by1">
+          <div class="module">
+            <div class="overlay">
               <a href="#/" id="changer" name="cprvr" class="animated expand-container hidden-container button transparent">
                 <div class="overlay-header">
                   <h3>
@@ -94,6 +109,28 @@
 
     <div class="jumbotron section-darkgreen">
       <div class="container text-spaced">
+
+        <div id="content-fihgt">
+          <div class="col-sm-6">
+            <h2 class="bold">
+              Unity App - Fihgt
+            </h2>
+            <p>
+              A wacky and fun fighting game for two players! <br>
+              <br>
+              Programmed in C# with Unity. <br>
+              Made with Andrew Wang. <br>
+              <br>
+              Short side project created for fun!
+              <br>
+              Learn more about this project <a href="https://www.hackerearth.com/fr/sprints/uofthacks-iv/dashboard/UofTTeam1/submission/">here</a>. <br>
+            </p>
+          </div>
+          <br>
+          <div class="col-sm-6">
+            <img src="resources/Images/fihgt2.JPG">
+          </div>
+        </div>
 
         <div id="content-cprvr">
           <div class="col-sm-6">
