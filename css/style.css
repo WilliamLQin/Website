@@ -87,6 +87,12 @@ div .module-container.module-1by1:before {
 
 @media only screen and (min-width: 992px) {
   div .module-container.module-1by1:before {
+    width: 22vw;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  div .module-container.module-1by1:before {
     width: 17vw;
   }
 }
