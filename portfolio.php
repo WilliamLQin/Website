@@ -27,7 +27,7 @@
         </h2>
         <br>
 
-        <div class="col-sm-12">
+        <div class="modules-centered">
 
           <div class="module-container module-1by1">
             <div class="module">
