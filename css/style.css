@@ -76,12 +76,12 @@ div .module-container.module-1by1:before {
   display: block;
   padding-top: 100%;
 
-  width: 43.5vw;
+  width: 43.4vw;
 }
 
 @media only screen and (min-width: 768px) {
   div .module-container.module-1by1:before {
-    width: 28.8vw;
+    width: 28.7vw;
   }
 }
 
