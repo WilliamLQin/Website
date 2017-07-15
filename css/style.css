@@ -3,6 +3,10 @@ html {
   width: 100vw;
 }
 
+body {
+  overflow-y: scroll;
+}
+
 * {
   box-sizing: border-box;
   text-decoration: none;
