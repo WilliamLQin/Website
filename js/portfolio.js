@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
   $("[id^='content']").hide();
-  $("#content-cprvr").show();
+  $("#content-base").show();
 
   $("[id^='changer']").click(function(){
 
