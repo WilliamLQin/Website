@@ -76,14 +76,14 @@ div .module-container.module-1by1:before {
   display: block;
   padding-top: 100%;
 
-  width: 16vw;
+  width: 17.6vw;
 }
 div .module-container.module-2by1:before {
   content: "";
   display: block;
   padding-top: 50%;
 
-  width: 32vw;
+  width: 35.2vw;
 }
 
 .module {
