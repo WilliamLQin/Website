@@ -3,6 +3,8 @@
 
   <div class="col-sm-3"></div>
   <div class="col-sm-4 text-center">
+    <br>
+    <br>
     <a href="https://www.facebook.com/william.qin51">
       <img src="/resources/Logos/facebooklogoalt.png" alt="facebook" class="logo-image">
     </a>
@@ -18,8 +20,8 @@
       <p>
         &nbsp; <span class="glyphicon glyphicon-envelope"></span> &nbsp; &nbsp; william.qin51@gmail.com
         <br>
-        <br>
-        &nbsp; <span class="glyphicon glyphicon-earphone"></span> &nbsp; &nbsp; (416) 788-6470
+        <!-- <br>
+        &nbsp; <span class="glyphicon glyphicon-earphone"></span> &nbsp; &nbsp; (416) 788-6470 -->
       </p>
     </div>
     <br>

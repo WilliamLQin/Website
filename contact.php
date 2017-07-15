@@ -27,7 +27,7 @@
           </h2>
           <br>
         </div>
-        <div class="col-sm-6">
+        <div class="col-sm-12">
           <img src="resources/Images/contact-email.png" alt="Envelope" style="width: 128px;">
           <h2>
             E-mail
@@ -37,7 +37,7 @@
           </h3>
         </div>
         <br>
-        <div class="col-sm-6">
+        <!-- <div class="col-sm-6">
           <img src="resources/Images/contact-phone.png" alt="megaphone" style="width: 128px;">
           <h2>
             Phone
@@ -45,7 +45,7 @@
           <h3>
             (416) 788-6470
           </h3>
-        </div>
+        </div> -->
       </div>
     </div>
 
