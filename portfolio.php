@@ -27,83 +27,79 @@
         </h2>
         <br>
 
-        <div class="modules-centered">
-
-          <div class="module-container module-1by1">
-            <div class="module">
-              <div class="overlay">
-                <a href="#/" id="changer" name="fihgt" class="animated expand-container hidden-container button transparent">
-                  <div class="overlay-header">
-                    <h3>
-                      Fihgt
-                    </h3>
-                  </div>
-                </a>
-              </div>
-              <img src="/resources/Images/fihgt1.jpg" class="animated expand-image rounded border-black">
+        <div class="module-container module-1by1">
+          <div class="module">
+            <div class="overlay">
+              <a href="#/" id="changer" name="fihgt" class="animated expand-container hidden-container button transparent">
+                <div class="overlay-header">
+                  <h3>
+                    Fihgt
+                  </h3>
+                </div>
+              </a>
             </div>
+            <img src="/resources/Images/fihgt1.jpg" class="animated expand-image rounded border-black">
           </div>
+        </div>
 
-          <div class="module-container module-1by1">
-            <div class="module">
-              <div class="overlay">
-                <a href="#/" id="changer" name="cprvr" class="animated expand-container hidden-container button transparent">
-                  <div class="overlay-header">
-                    <h3>
-                      CPR-VR
-                    </h3>
-                  </div>
-                </a>
-              </div>
-              <img src="/resources/Images/CPRVR1.jpg" class="animated expand-image rounded border-black">
+        <div class="module-container module-1by1">
+          <div class="module">
+            <div class="overlay">
+              <a href="#/" id="changer" name="cprvr" class="animated expand-container hidden-container button transparent">
+                <div class="overlay-header">
+                  <h3>
+                    CPR-VR
+                  </h3>
+                </div>
+              </a>
             </div>
+            <img src="/resources/Images/CPRVR1.jpg" class="animated expand-image rounded border-black">
           </div>
+        </div>
 
-          <div class="module-container module-1by1">
-            <div class="module">
-              <div class="overlay">
-                <a href="#/" id="changer" name="popmidi" class="animated expand-container hidden-container button transparent">
-                  <div class="overlay-header">
-                    <h3>
-                      Pop MIDI
-                    </h3>
-                  </div>
-                </a>
-              </div>
-              <img src="/resources/Images/popmidi1.jpg" class="animated expand-image rounded border-black">
+        <div class="module-container module-1by1">
+          <div class="module">
+            <div class="overlay">
+              <a href="#/" id="changer" name="popmidi" class="animated expand-container hidden-container button transparent">
+                <div class="overlay-header">
+                  <h3>
+                    Pop MIDI
+                  </h3>
+                </div>
+              </a>
             </div>
+            <img src="/resources/Images/popmidi1.jpg" class="animated expand-image rounded border-black">
           </div>
+        </div>
 
-          <div class="module-container module-1by1">
-            <div class="module">
-              <div class="overlay">
-                <a href="#/" id="changer" name="stux" class="animated expand-container hidden-container button transparent">
-                  <div class="overlay-header">
-                    <h3>
-                      Stux
-                    </h3>
-                  </div>
-                </a>
-              </div>
-              <img src="/resources/Images/stux1.png" class="animated expand-image rounded border-black">
+        <div class="module-container module-1by1">
+          <div class="module">
+            <div class="overlay">
+              <a href="#/" id="changer" name="stux" class="animated expand-container hidden-container button transparent">
+                <div class="overlay-header">
+                  <h3>
+                    Stux
+                  </h3>
+                </div>
+              </a>
             </div>
+            <img src="/resources/Images/stux1.png" class="animated expand-image rounded border-black">
           </div>
+        </div>
 
-          <div class="module-container module-1by1">
-            <div class="module">
-              <div class="overlay">
-                <a href="#/" id="changer" name="laserfield" class="animated expand-container hidden-container button transparent">
-                  <div class="overlay-header">
-                    <h3>
-                      Laser Field
-                    </h3>
-                  </div>
-                </a>
-              </div>
-              <img src="/resources/Images/laserfield1.png" class="animated expand-image rounded border-black">
+        <div class="module-container module-1by1">
+          <div class="module">
+            <div class="overlay">
+              <a href="#/" id="changer" name="laserfield" class="animated expand-container hidden-container button transparent">
+                <div class="overlay-header">
+                  <h3>
+                    Laser Field
+                  </h3>
+                </div>
+              </a>
             </div>
+            <img src="/resources/Images/laserfield1.png" class="animated expand-image rounded border-black">
           </div>
-
         </div>
 
       </div>
