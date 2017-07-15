@@ -119,6 +119,7 @@
             The web stack is completely handled by myself; from server hosting to ftp deployment to web design! <br>
             <br>
             Created primarily with HTML and CSS (JavaScript and PHP used minimally). <br>
+            Frameworks/Libraries include Bootstrap and jQuery. <br>
           </p>
         </div>
 
