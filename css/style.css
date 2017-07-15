@@ -1,5 +1,6 @@
 html {
   background-color: #000000;
+  width: 100vw;
 }
 
 * {
@@ -76,24 +77,24 @@ div .module-container.module-1by1:before {
   display: block;
   padding-top: 100%;
 
-  width: 43.3vw;
+  width: 44vw;
 }
 
 @media only screen and (min-width: 768px) {
   div .module-container.module-1by1:before {
-    width: 28.5vw;
+    width: 29vw;
   }
 }
 
 @media only screen and (min-width: 992px) {
   div .module-container.module-1by1:before {
-    width: 21.5vw;
+    width: 22vw;
   }
 }
 
 @media only screen and (min-width: 1200px) {
   div .module-container.module-1by1:before {
-    width: 17vw;
+    width: 17.6vw;
   }
 }
 /*div .module-container.module-2by1:before {
