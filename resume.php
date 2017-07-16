@@ -34,21 +34,16 @@
         </h2>
         <hr>
         <h3>
-          • Knowledge of C# (Unity), Python, Web Development (HTML, CSS, JavaScript, Bootstrap, jQuery), and Java (Eclipse)
+          •	Knowledge of C# (Unity), Python, HTML, CSS, and Java (Eclipse)
           <br>
-          • Essential proficiency in Google Drive and Microsoft Office
+          •	Essential proficiency in Google Drive and Microsoft Office
           <br>
-          • Understands and works within the dynamics of a group
+          •	Quick learner – Willing to continuously learn and grow
           <br>
-          • Manages and resolves conflict when appropriate
+          •	Multilingual – Fluent in English, French, Spanish, and Mandarin
           <br>
-          • Shows interest, initiative, and effort
+          •	Lifesaving Society - Bronze Medallion, Bronze Cross, Emergency First Aid CPR-B & CPR-C
           <br>
-          • Willing to continuously learn and grow
-          <br>
-          • Multilingual: Fluent in English, French, Spanish, and Mandarin
-          <br>
-          • Lifesaving Society - Bronze Medallion, Bronze Cross, Emergency First Aid CPR-B & CPR-C
         </h3>
         <br>
         <h2 class="bold">
@@ -56,27 +51,51 @@
         </h2>
         <hr>
         <h3>
-          Senior Programmer <br>
+          Electronic Assembler <br>
+          D&R Electronics Co. - Bolton, Ontario <br>
+          Jul. – Aug. 2017 <br>
+          <br>
+          &nbsp; &nbsp; Assembled parts for manufacturing electronic equipment, mainly wiring <br>
+          &nbsp; &nbsp; Tested electronic equipment prior to shipment of goods to clients <br>
+          <br>
+          Senior Programmer/Scouting Lead <br>
           FRC Team 1325 - Mississauga, Ontario <br>
-          November 16, 2015 – present <br>
+          Nov. 2015 – Sep. 2017 <br>
           <br>
-          • Collaborated with team members to program essential robot controls <br>
-          • Took lead for team scouting web app initiative <br>
+          &nbsp; &nbsp; Collaborated with team members to program essential robot controls <br>
+          &nbsp; &nbsp; Lead team scouting web app initiative and scouting during competitions <br>
+          &nbsp; &nbsp; Contributed to team community involvement, winning District Chairman’s Award at Ryerson University <br>
+        </h3>
+        <br>
+        <h2 class="bold">
+          Portfolio
+        </h2>
+        <hr>
+        <h3>
+          williamqin.com <br>
+          Personal Project - Mississauga, Ontario <br>
+          Jan. 2017 – present <br>
           <br>
-          Conservation Youth Corps <br>
-                    Credit Valley Conservation - Mississauga, Ontario <br>
-          August 8 – August 12, 2016 <br>
+          &nbsp; &nbsp; Personal website used as a platform to share who I am and what I do <br>
+          &nbsp; &nbsp; Created from scratch with HTML and CSS (JavaScript and PHP used minimally) <br>
           <br>
-          • Conducted environmental stewardship in the Credit Valley watershed <br>
-          • Cooperated with team members to complete tasks – Outstanding Crew Award <br>
+          CPR-VR <br>
+          UofTHacks IV Submission - Toronto, Ontario <br>
+          Jan. 2017 <br>
           <br>
-          Legislative Page <br>
-                    Legislative Assembly of Ontario - Toronto, Ontario <br>
-          April 28 – May 6, 2014 & July 7 – 24, 2014 <br>
-          <br>
-          • Acted as a messenger in the Provincial Parliament between politicians and officials <br>
-          • Collaborated with co-workers to effectively complete tasks in a timely manner <br>
-          • Analyzed schedules, rules, and maps to do required job efficiently <br>
+          &nbsp; &nbsp; Virtual Reality simulator for basic CPR training <br>
+          &nbsp; &nbsp; Created with Unity (C#), Google Cardboard, Leap Motion, and Sketchup <br>
+          &nbsp; &nbsp; Led four-person team to successfully create CPR-VR and achieve Top 10 Overall Hack <br>
+        </h3>
+        <br>
+        <h2 class="bold">
+          Personal Achievements
+        </h2>
+        <hr>
+        <h3>
+          • University of Waterloo CEMC Canadian Computing Competition Junior Honour Roll <br>
+          •	CEMC Cayley Contest 1st Place in School, Honour Roll, and Certificate of Distinction <br>
+          • 1st Place Winner in Business Services Operations Research at DECA Ontario Provincial Competition <br>
         </h3>
         <br>
         <h2 class="bold">
@@ -86,19 +105,8 @@
         <h3>
           International Business Technology Program <br>
           Gordon Graydon Memorial Secondary School - Mississauga, Ontario <br>
-          <br>
           September 2015 - present <br>
-          &nbsp; &nbsp; Cumulative GPA: 4.0/4.0
-        </h3>
-        <br>
-        <h2 class="bold">
-          Personal Achievements
-        </h2>
-        <hr>
-        <h3>
-          • Winner of Best Overall Hack w/ Mentor at Cipher Local Hack Day 2016 <br>
-          • 1st Place Winner in Business Services Operations Research at DECA Ontario Provincial Competition <br>
-          • Certificate of Outstanding Achievement (Perfect Score) in Waterloo Gauss Math Contest <br>
+          &nbsp; &nbsp; Cumulative GPA: 4.0/4.0 <br>
         </h3>
       </div>
     </div>
@@ -122,3 +130,25 @@
   <?php include('php/footer.php') ?>
 
 </body>
+
+<!-- Senior Programmer <br>
+FRC Team 1325 - Mississauga, Ontario <br>
+November 16, 2015 – present <br>
+<br>
+• Collaborated with team members to program essential robot controls <br>
+• Took lead for team scouting web app initiative <br>
+<br>
+Conservation Youth Corps <br>
+          Credit Valley Conservation - Mississauga, Ontario <br>
+August 8 – August 12, 2016 <br>
+<br>
+• Conducted environmental stewardship in the Credit Valley watershed <br>
+• Cooperated with team members to complete tasks – Outstanding Crew Award <br>
+<br>
+Legislative Page <br>
+          Legislative Assembly of Ontario - Toronto, Ontario <br>
+April 28 – May 6, 2014 & July 7 – 24, 2014 <br>
+<br>
+• Acted as a messenger in the Provincial Parliament between politicians and officials <br>
+• Collaborated with co-workers to effectively complete tasks in a timely manner <br>
+• Analyzed schedules, rules, and maps to do required job efficiently <br> -->
