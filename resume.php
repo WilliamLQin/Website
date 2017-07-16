@@ -54,17 +54,15 @@
           Electronic Assembler <br>
           D&R Electronics Co. - Bolton, Ontario <br>
           Jul. – Aug. 2017 <br>
-          <br>
-          &nbsp; &nbsp; Assembled parts for manufacturing electronic equipment, mainly wiring <br>
-          &nbsp; &nbsp; Tested electronic equipment prior to shipment of goods to clients <br>
+          &nbsp;&nbsp;Assembled parts for manufacturing electronic equipment, mainly wiring <br>
+          &nbsp;&nbsp;Tested electronic equipment prior to shipment of goods to clients <br>
           <br>
           Senior Programmer/Scouting Lead <br>
           FRC Team 1325 - Mississauga, Ontario <br>
           Nov. 2015 – Sep. 2017 <br>
-          <br>
-          &nbsp; &nbsp; Collaborated with team members to program essential robot controls <br>
-          &nbsp; &nbsp; Lead team scouting web app initiative and scouting during competitions <br>
-          &nbsp; &nbsp; Contributed to team community involvement, winning District Chairman’s Award at Ryerson University <br>
+          &nbsp;&nbsp;Collaborated with team members to program essential robot controls <br>
+          &nbsp;&nbsp;Lead team scouting web app initiative and scouting during competitions <br>
+          &nbsp;&nbsp;Contributed to team community involvement, winning District Chairman’s Award at Ryerson University <br>
         </h3>
         <br>
         <h2 class="bold">
@@ -75,17 +73,15 @@
           williamqin.com <br>
           Personal Project - Mississauga, Ontario <br>
           Jan. 2017 – present <br>
-          <br>
-          &nbsp; &nbsp; Personal website used as a platform to share who I am and what I do <br>
-          &nbsp; &nbsp; Created from scratch with HTML and CSS (JavaScript and PHP used minimally) <br>
+          &nbsp;&nbsp;Personal website used as a platform to share who I am and what I do <br>
+          &nbsp;&nbsp;Created from scratch with HTML and CSS (JavaScript and PHP used minimally) <br>
           <br>
           CPR-VR <br>
           UofTHacks IV Submission - Toronto, Ontario <br>
           Jan. 2017 <br>
-          <br>
-          &nbsp; &nbsp; Virtual Reality simulator for basic CPR training <br>
-          &nbsp; &nbsp; Created with Unity (C#), Google Cardboard, Leap Motion, and Sketchup <br>
-          &nbsp; &nbsp; Led four-person team to successfully create CPR-VR and achieve Top 10 Overall Hack <br>
+          &nbsp;&nbsp;Virtual Reality simulator for basic CPR training <br>
+          &nbsp;&nbsp;Created with Unity (C#), Google Cardboard, Leap Motion, and Sketchup <br>
+          &nbsp;&nbsp;Led four-person team to successfully create CPR-VR and achieve Top 10 Overall Hack <br>
         </h3>
         <br>
         <h2 class="bold">
@@ -106,7 +102,7 @@
           International Business Technology Program <br>
           Gordon Graydon Memorial Secondary School - Mississauga, Ontario <br>
           September 2015 - present <br>
-          &nbsp; &nbsp; Cumulative GPA: 4.0/4.0 <br>
+          &nbsp;&nbsp;Cumulative GPA: 4.0/4.0 <br>
         </h3>
       </div>
     </div>
