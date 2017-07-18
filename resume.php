@@ -24,6 +24,7 @@
         <h2>
           Download my resume!
         </h2>
+        <br>
         <div class="col-sm-6">
           <img src="/resources/Images/pdficon.png" class="download-icon">
           <a download href="/resources/Downloads/WilliamQin-Resume.pdf" class="btn btn-success">Download!</a>
@@ -32,6 +33,14 @@
           <img src="/resources/Images/docxicon.png" class="download-icon">
           <a download href="/resources/Downloads/WilliamQin-Resume.docx" class="btn btn-success">Download!</a>
         </div>
+      </div>
+    </div>
+
+    <div class="jumbotron section-black">
+      <div class="container text-spaced">
+        <h2>
+          Or read it right here!
+        </h2>
       </div>
     </div>
 
