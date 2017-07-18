@@ -23,7 +23,7 @@
         &nbsp; <span class="glyphicon glyphicon-envelope"></span> &nbsp; &nbsp; william.qin51@gmail.com
         <br>
         <!-- <br>
-        &nbsp; <span class="glyphicon glyphicon-earphone"></span> &nbsp; &nbsp; (416) 788-6470 -->
+        &nbsp; <span class="glyphicon glyphicon-earphone"></span> &nbsp; &nbsp; [phone number] -->
       </p>
     </div>
     <br>
@@ -36,7 +36,7 @@
       <a href="/portfolio">Portfolio</a> <br>
       <a href="/resume">Resume</a> <br>
       <a href="/blog">Blog</a> <br>
-      <a href="/timeline">Timeline</a> <br>
+      <!-- <a href="/timeline">Timeline</a> <br> -->
       <a href="/contact">Contact</a> <br>
     </p>
     <br>
