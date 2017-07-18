@@ -36,14 +36,6 @@
       </div>
     </div>
 
-    <div class="jumbotron section-black">
-      <div class="container text-spaced">
-        <h2>
-          Or read it right here!
-        </h2>
-      </div>
-    </div>
-
     <div class="jumbotron">
       <div class="container text-spaced">
         <h2 class="bold">
