@@ -30,8 +30,8 @@
         <div class="col-sm-5">
           <img src="/resources/Images/pdficon.png" class="download-icon"> &nbsp;
           <a download href="/resources/Downloads/WilliamQin-Resume.pdf" class="btn btn-success">Download!</a>
-          <br>
         </div>
+        <br class="desktop-only">
         <div class="col-sm-5">
           <img src="/resources/Images/docxicon.png" class="download-icon"> &nbsp;
           <a download href="/resources/Downloads/WilliamQin-Resume.docx" class="btn btn-success">Download!</a>
