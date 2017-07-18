@@ -17,7 +17,18 @@
     <img src="/resources/Splash/portfolio-3by5.jpeg" alt="portfolio" class="animated expand-image rounded">
   </div>
 
-  <div class="col-4 height-2 hover-all stack">
+  <div class="col-6 height-2 stack hover-all">
+    <div class="overlay">
+      <a href="/about" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
+        <h3 class="overlay-header">
+          About
+        </h3>
+      </a>
+    </div>
+    <img src="/resources/Splash/about-6by2.jpg" alt="about" class="animated expand-image rounded">
+  </div>
+
+  <!-- <div class="col-4 height-2 hover-all stack">
     <div class="overlay">
       <a href="/timeline" class="animated expand-container hidden-container button button-transparent button-border-white">
         <h3 class="overlay-header">
@@ -26,18 +37,7 @@
       </a>
     </div>
     <img src="/resources/Splash/timeline-4by2.jpg" alt="achievements" class="animated expand-image rounded">
-  </div>
-
-  <div class="col-2 height-2 stack hover-all">
-    <div class="overlay">
-      <a href="/resume" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
-        <h3 class="overlay-header">
-          Resume
-        </h3>
-      </a>
-    </div>
-    <img src="/resources/Splash/resume-1by1.jpg" alt="resume" class="animated expand-image rounded">
-  </div>
+  </div> -->
 
   <div class="col-3 height-4 right hover-all stack">
     <div class="overlay">
@@ -97,13 +97,13 @@
 
   <div class="col-4 height-2 stack hover-all">
     <div class="overlay">
-      <a href="/about" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
+      <a href="/resume" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
         <h3 class="overlay-header">
-          About
+          Resume
         </h3>
       </a>
     </div>
-    <img src="/resources/Splash/about-4by2.jpg" alt="about" class="animated expand-image rounded">
+    <img src="/resources/Splash/resume-4by2.jpg" alt="resume" class="animated expand-image rounded">
   </div>
 
   <div class="col-1 height-1 hover-all">

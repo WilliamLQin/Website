@@ -111,16 +111,18 @@
       <div class="container text-spaced">
 
         <div id="content-base">
-          <h2 class="bold">
-            This website! (williamqin.com)
-          </h2>
-          <p>
-            This website is made entirely from scratch! <br>
-            The web stack is completely handled by myself; from server hosting to ftp deployment to web design! <br>
-            <br>
-            Created primarily with HTML and CSS (JavaScript and PHP used minimally). <br>
-            Frameworks/Libraries include Bootstrap and jQuery. <br>
-          </p>
+          <div class="col-sm-12">
+            <h2 class="bold">
+              This website! (williamqin.com)
+            </h2>
+            <p>
+              This website is made entirely from scratch! <br>
+              The web stack is completely handled by myself; from server hosting to ftp deployment to web design! <br>
+              <br>
+              Created primarily with HTML and CSS (JavaScript and PHP used minimally). <br>
+              Frameworks/Libraries include Bootstrap and jQuery. <br>
+            </p>
+          </div>
         </div>
 
         <div id="content-fihgt">
