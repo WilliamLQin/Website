@@ -139,9 +139,9 @@
               <br>
               Download to play now! <br>
               <br>
-              &nbsp; &nbsp;<a download href="/resources/Downloads/Fihgt_win.zip" class="btn btn-success"><img src="/resources/Images/winicon.png" class="download-icon"></a>
-              &nbsp; &nbsp;<a download href="/resources/Downloads/Fihgt_mac.zip" class="btn btn-success"><img src="/resources/Images/macicon.png" class="download-icon"></a>
-              &nbsp; &nbsp;<a download href="/resources/Downloads/Fihgt_linux.zip" class="btn btn-success"><img src="/resources/Images/linicon.png" class="download-icon"></a>
+              &nbsp; &nbsp;<a download href="/resources/Downloads/Fihgt_win.zip"><img src="/resources/Images/winicon.png" class="download-icon"></a>
+              &nbsp; &nbsp;<a download href="/resources/Downloads/Fihgt_mac.zip"><img src="/resources/Images/macicon.png" class="download-icon"></a>
+              &nbsp; &nbsp;<a download href="/resources/Downloads/Fihgt_linux.zip"><img src="/resources/Images/linicon.png" class="download-icon"></a>
             </p>
           </div>
           <br>
