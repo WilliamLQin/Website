@@ -25,13 +25,18 @@
           Download my resume!
         </h2>
         <br>
-        <div class="col-sm-6">
-          <img src="/resources/Images/pdficon.png" class="download-icon">
-          <a download href="/resources/Downloads/WilliamQin-Resume.pdf" class="btn btn-success">Download!</a>
+        <div class="col-sm-1">
         </div>
-        <div class="col-sm-6">
-          <img src="/resources/Images/docxicon.png" class="download-icon">
+        <div class="col-sm-5">
+          <img src="/resources/Images/pdficon.png" class="download-icon"> &nbsp;
+          <a download href="/resources/Downloads/WilliamQin-Resume.pdf" class="btn btn-success">Download!</a>
+          <br>
+        </div>
+        <div class="col-sm-5">
+          <img src="/resources/Images/docxicon.png" class="download-icon"> &nbsp;
           <a download href="/resources/Downloads/WilliamQin-Resume.docx" class="btn btn-success">Download!</a>
+        </div>
+        <div class="col-sm-1">
         </div>
       </div>
     </div>
