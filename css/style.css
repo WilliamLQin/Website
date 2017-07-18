@@ -23,7 +23,7 @@ img {
   height: auto;
 }
 
-.download-icon img {
+img.download-icon {
   width: 100px;
   height: auto;
   display: inline;
