@@ -19,6 +19,22 @@
       </div>
     </div>
 
+    <div class="jumbotron section-blue">
+      <div class="container text-center text-spaced">
+        <h2>
+          Download my resume!
+        </h2>
+        <div class="col-sm-6">
+          <img src="/resources/Images/pdficon.png" class="download-icon">
+          <a download href="/resources/Downloads/WilliamQin-Resume.pdf" class="btn btn-success">Download!</a>
+        </div>
+        <div class="col-sm-6">
+          <img src="/resources/Images/docxicon.png" class="download-icon">
+          <a download href="/resources/Downloads/WilliamQin-Resume.docx" class="btn btn-success">Download!</a>
+        </div>
+      </div>
+    </div>
+
     <div class="jumbotron">
       <div class="container text-spaced">
         <h2 class="bold">
@@ -70,18 +86,19 @@
         </h2>
         <hr>
         <h3>
-          williamqin.com <br>
-          Personal Project - Mississauga, Ontario <br>
-          Jan. 2017 – present <br>
-          &nbsp;&nbsp;Personal website used as a platform to share who I am and what I do <br>
-          &nbsp;&nbsp;Created from scratch with HTML and CSS (JavaScript and PHP used minimally) <br>
-          <br>
           CPR-VR <br>
           UofTHacks IV Submission - Toronto, Ontario <br>
           Jan. 2017 <br>
           &nbsp;&nbsp;Virtual Reality simulator for basic CPR training <br>
           &nbsp;&nbsp;Created with Unity (C#), Google Cardboard, Leap Motion, and Sketchup <br>
           &nbsp;&nbsp;Led four-person team to successfully create CPR-VR and achieve Top 10 Overall Hack <br>
+          <br>
+          Pop-MIDI <br>
+          Cipher Local Hack Day Submission - Brampton, Ontario <br>
+          Dec. 2016 <br>
+          &nbsp;&nbsp;Pop can music box that can play MIDI files <br>
+          &nbsp;&nbsp;Created with Python and Arduino <br>
+          &nbsp;&nbsp;Worked in a three-person team to finish project and win Best Overall Hack with Mentor <br>
         </h3>
         <br>
         <h2 class="bold">
@@ -90,7 +107,7 @@
         <hr>
         <h3>
           • University of Waterloo CEMC Canadian Computing Competition Junior Honour Roll <br>
-          •	CEMC Cayley Contest 1st Place in School, Honour Roll, and Certificate of Distinction <br>
+          • CEMC Cayley Contest 1st Place in School, Honour Roll, and Certificate of Distinction <br>
           • 1st Place Winner in Business Services Operations Research at DECA Ontario Provincial Competition <br>
         </h3>
         <br>
@@ -104,20 +121,6 @@
           September 2015 - present <br>
           &nbsp;&nbsp;Cumulative GPA: 4.0/4.0 <br>
         </h3>
-      </div>
-    </div>
-
-    <div class="jumbotron section-blue">
-      <div class="container text-center text-spaced">
-        <h2>
-          Interested in my resume?
-          <br>
-          <a href="contact.php" style="text-decoration: underline; color: rgb(120,120,255);">
-            Contact me!
-          </a>
-          <br>
-          You'll get a formal document in PDF/Word format.
-        </h2>
       </div>
     </div>
 
