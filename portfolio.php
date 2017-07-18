@@ -140,13 +140,13 @@
               Download to play now! <br>
               <br>
               <img src="/resources/Images/winicon.png" class="download-icon"> &nbsp;
-              <a download href="/resources/Downloads/Fihgt_win.pdf" class="btn btn-success">Download!</a>
+              <a download href="/resources/Downloads/Fihgt_win.zip" class="btn btn-success">Download!</a>
               <br>
               <img src="/resources/Images/macicon.png" class="download-icon"> &nbsp;
-              <a download href="/resources/Downloads/Fihgt_mac.pdf" class="btn btn-success">Download!</a>
+              <a download href="/resources/Downloads/Fihgt_mac.zip" class="btn btn-success">Download!</a>
               <br>
               <img src="/resources/Images/linicon.png" class="download-icon"> &nbsp;
-              <a download href="/resources/Downloads/Fihgt_linux.pdf" class="btn btn-success">Download!</a>
+              <a download href="/resources/Downloads/Fihgt_linux.zip" class="btn btn-success">Download!</a>
             </p>
           </div>
           <br>
