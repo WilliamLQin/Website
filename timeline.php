@@ -3,6 +3,8 @@
   <?php include('php/imports.php') ?>
 </head>
 
+<!-- WARNING: This page has been removed -->
+
 <body>
 
   <?php include('php/header.php') ?>

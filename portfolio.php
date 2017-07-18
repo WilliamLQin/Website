@@ -131,12 +131,22 @@
               Unity App - Fihgt
             </h2>
             <p>
-              A wacky and fun fighting game for two players! <br>
+              Short side project created for fun!
+              "A wacky and fun fighting game for two players!"" <br>
               <br>
               Programmed in C# with Unity. <br>
               Made with Andrew Wang. <br>
               <br>
-              Short side project created for fun!
+              Download to play now! <br>
+              <br>
+              <img src="/resources/Images/winicon.png" class="download-icon"> &nbsp;
+              <a download href="/resources/Downloads/Fihgt_win.pdf" class="btn btn-success">Download!</a>
+              <br>
+              <img src="/resources/Images/macicon.png" class="download-icon"> &nbsp;
+              <a download href="/resources/Downloads/Fihgt_mac.pdf" class="btn btn-success">Download!</a>
+              <br>
+              <img src="/resources/Images/linicon.png" class="download-icon"> &nbsp;
+              <a download href="/resources/Downloads/Fihgt_linux.pdf" class="btn btn-success">Download!</a>
             </p>
           </div>
           <br>

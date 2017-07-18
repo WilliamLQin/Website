@@ -43,7 +43,7 @@
             Phone
           </h2>
           <h3>
-            (416) 788-6470
+            [phone number]
           </h3>
         </div> -->
       </div>
