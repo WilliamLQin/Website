@@ -72,9 +72,17 @@ img.download-icon {
   display: none;
 }
 
+.mobile-only {
+  display: inherit;
+}
+
 @media only screen and (min-width: 768px) {
   .desktop-only {
     display: inherit;
+  }
+
+  .mobile-only {
+    display: none;
   }
 }
 
