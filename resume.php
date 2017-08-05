@@ -76,6 +76,7 @@
           Electronic Assembler <br>
           D&R Electronics Co. - Bolton, Ontario <br>
           Jul. – Aug. 2017 <br>
+          &nbsp;&nbsp;Developed interfaces used to modify hardware behavior <br>
           &nbsp;&nbsp;Assembled parts for manufacturing electronic equipment, mainly wiring <br>
           &nbsp;&nbsp;Tested electronic equipment prior to shipment of goods to clients <br>
           <br>
