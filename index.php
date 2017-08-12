@@ -1,3 +1,6 @@
+<!-- Google Analytics -->
+<?php include_once("analyticstracking.php") ?>
+
 <?php
   $userAgent = $_SERVER['HTTP_USER_AGENT'];
   $iphone = strpos($userAgent, "iPhone");
