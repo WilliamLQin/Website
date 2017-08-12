@@ -1,5 +1,5 @@
 <!-- Google Analytics -->
-<?php include_once("analyticstracking.php") ?>
+<?php include_once("/php/analyticstracking.php") ?>
 
 <?php
   $userAgent = $_SERVER['HTTP_USER_AGENT'];
