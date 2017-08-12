@@ -3,6 +3,7 @@ body > div:last-child {
 
   width : 2px!important;
   height: 1px!important;
+  display: none;
 
 }
 
