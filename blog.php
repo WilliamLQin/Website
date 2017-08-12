@@ -23,7 +23,7 @@
       <div class="container text-center text-spaced">
         <h2>
           Sorry! <br>
-          This page is currently under construction. <br>
+          This page is currently under construction... <br>
           Check back later!
         </h2>
       </div>
