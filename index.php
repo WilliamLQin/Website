@@ -13,13 +13,15 @@
           <img src="/resources/Images/william4-square.jpg" class="img-circle" style="max-width: 360px">
         </div>
         <div class="col-sm-7">
-          <h1>
-            <span class="light">WILLIAM</span> <span class="bold">QIN</span>
-          </h1>
-          <hr>
-          <h2>
-            Student & Developer
-          </h2>
+          <div class="vertical-align">
+            <h1>
+              <span class="light">WILLIAM</span> <span class="bold">QIN</span>
+            </h1>
+            <hr>
+            <h2>
+              Student & Developer
+            </h2>
+          </div>
         </div>
       </div>
     </div>
