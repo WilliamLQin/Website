@@ -7,21 +7,13 @@
 
   <div>
 
-    <div class="jumbotron vertical-center text-center">
+    <div class="jumbotron vertical-center text-center section-black">
       <div class="col-xs-12">
         <h1 class="bold">
-          Hi, I'm William Qin
+          WILLIAM QIN
         </h1>
       </div>
     </div>
-
-    <!-- <div class="jumbotron">
-      <div class="text-center text-box">
-        <h1>
-          Yo.
-        </h1>
-      </div>
-    </div> -->
 
   </div>
 
