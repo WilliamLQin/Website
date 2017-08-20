@@ -8,13 +8,13 @@
       <br>
     </div>
     <a href="https://www.facebook.com/william.qin51">
-      <img src="/resources/Logos/facebooklogoalt.png" alt="facebook" class="logo-image">
+      <img src="/resources/Logos/facebooklogoalt.png" class="logo-image">
     </a>
     <a href="https://github.com/WilliamLQin">
-      <img src="/resources/Logos/githublogo.png" alt="github" class="logo-image">
+      <img src="/resources/Logos/githublogo.png" class="logo-image">
     </a>
     <a href="https://www.linkedin.com/in/williamqin">
-      <img src="/resources/Logos/linkedinlogoTMalt.png" alt="linkedin" class="logo-image">
+      <img src="/resources/Logos/linkedinlogoTMalt.png" class="logo-image">
     </a>
     <br>
     <br>

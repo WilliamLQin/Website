@@ -21,14 +21,6 @@
       </div>
     </div>
 
-    <!-- <div class="jumbotron">
-      <div class="text-center text-box">
-        <h1>
-          Yo.
-        </h1>
-      </div>
-    </div> -->
-
   </div>
 
   <?php include('php/footer.php') ?>

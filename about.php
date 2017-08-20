@@ -34,7 +34,7 @@
           </h3>
         </div>
         <div class="col-sm-6">
-          <img src="/resources/Images/william1.JPG" alt="Swiss Alps">
+          <img src="/resources/Images/william4.JPG">
         </div>
       </div>
     </div>
