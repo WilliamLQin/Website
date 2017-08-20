@@ -122,7 +122,7 @@ body {
 
 .title-name {
   margin: 0;
-  padding: 4vw 0 1vw 0;
+  padding: 4.6vw 0 1vw 0;
   font-size: 5vw;
 }
 .title-label {
@@ -239,7 +239,7 @@ body {
   }
 
   .title-name {
-    padding: 6vh 0 2vh 0;
+    padding: 8vh 0 2vh 0;
     font-size: 9vh;
   }
   .title-label {
@@ -248,7 +248,7 @@ body {
   }
   .copyright{
     font-size: 2.5vh;
-    padding: 3.5vh 0;
+    padding: 4vh 0;
   }
   h3.overlay-text {
     font-size: 3vh;
