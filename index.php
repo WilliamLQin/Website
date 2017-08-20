@@ -10,7 +10,7 @@
     <div class="jumbotron vertical-center section-darkblue">
       <div class="col-sm-2"></div>
       <div class="col-sm-3">
-        <img src="/resources/Images/william4-square.JPG" class="img-circle">
+        <img src="/resources/Images/william4-square.jpg" class="img-circle">
       </div>
       <div class="col-sm-5">
         <h1>
