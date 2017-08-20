@@ -1,18 +1,18 @@
 @font-face {
   font-family: "Lato";
-  src: url('/resources/Fonts/Lato-Regular.ttf') format("truetype");
+  src: url('/resources/Fonts/Lato/Lato-Regular.ttf') format("truetype");
 }
 @font-face {
   font-family: "Lato-Italic";
-  src: url('/resources/Fonts/Lato-Italic.ttf') format("truetype");
+  src: url('/resources/Fonts/Lato/Lato-Italic.ttf') format("truetype");
 }
 @font-face {
   font-family: "Lato-Thin";
-  src: url('/resources/Fonts/Lato-Hairline.ttf') format("truetype");
+  src: url('/resources/Fonts/Lato/Lato-Hairline.ttf') format("truetype");
 }
 @font-face {
   font-family: "Lato-Black";
-  src: url('/resources/Fonts/Lato-Black.ttf') format("truetype");
+  src: url('/resources/Fonts/Lato/Lato-Black.ttf') format("truetype");
 }
 
 * {
