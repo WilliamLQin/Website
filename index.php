@@ -7,10 +7,12 @@
 
   <div>
 
-    <div class="jumbotron vertical-center">
-      <h1 class="bold">
-        Hi, I'm William Qin
-      </h1>
+    <div class="jumbotron vertical-center text-center">
+      <div class="col-xs-12">
+        <h1 class="bold">
+          Hi, I'm William Qin
+        </h1>
+      </div>
     </div>
 
     <!-- <div class="jumbotron">
