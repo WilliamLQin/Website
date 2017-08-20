@@ -7,12 +7,12 @@
 
   <div>
 
-    <div class="jumbotron vertical-center text-center section-darkblue">
+    <div class="jumbotron vertical-center section-darkblue">
       <div class="col-sm-2"></div>
-      <div class="col-sm-2">
-
+      <div class="col-sm-3">
+        <img src="/resources/Images/william4.JPG" class="img-circle">
       </div>
-      <div class="col-sm-6">
+      <div class="col-sm-5">
         <h1>
           <span class="light">WILLIAM</span> <span class="bold">QIN</span>
         </h1>
