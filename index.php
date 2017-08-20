@@ -8,15 +8,20 @@
   <div>
 
     <div class="jumbotron vertical-center text-center section-black">
-      <div class="col-xs-12">
+      <div class="col-sm-2"></div>
+      <div class="col-sm-2">
+
+      </div>
+      <div class="col-sm-6">
         <h1>
-          <span class="thin">WILLIAM</span> <span class="bold">QIN</span>
+          WILLIAM <span class="bold">QIN</span>
         </h1>
         <hr>
-        <h1>
+        <h3>
           Student & Developer
-        </h1>
+        </h3>
       </div>
+      <div class="col-sm-2"></div>
     </div>
 
   </div>
