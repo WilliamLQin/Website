@@ -7,19 +7,19 @@
 
   <div>
 
-    <div class="jumbotron vertical-center text-center section-black">
+    <div class="jumbotron vertical-center text-center section-darkblue">
       <div class="col-sm-2"></div>
       <div class="col-sm-2">
 
       </div>
       <div class="col-sm-6">
         <h1>
-          WILLIAM <span class="bold">QIN</span>
+          <span class="light">WILLIAM</span> <span class="bold">QIN</span>
         </h1>
         <hr>
-        <h3>
+        <h2>
           Student & Developer
-        </h3>
+        </h2>
       </div>
       <div class="col-sm-2"></div>
     </div>

@@ -7,8 +7,8 @@
   src: url('/resources/Fonts/Lato/Lato-Italic.ttf') format("truetype");
 }
 @font-face {
-  font-family: "Lato-Thin";
-  src: url('/resources/Fonts/Lato/Lato-Hairline.ttf') format("truetype");
+  font-family: "Lato-Light";
+  src: url('/resources/Fonts/Lato/Lato-Light.ttf') format("truetype");
 }
 @font-face {
   font-family: "Lato-Black";
@@ -27,8 +27,8 @@
   font-family: "Lato-Italic", sans-serif;
 }
 
-.thin {
-  font-family: "Lato-Thin", sans-serif;
+.light {
+  font-family: "Lato-Light", sans-serif;
 }
 
 div.section-grey {
