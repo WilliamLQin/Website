@@ -8,7 +8,7 @@
   <div>
 
     <div class="jumbotron vertical-center section-darkblue">
-      <div class="container">
+      <div class="container equal-height">
         <div class="col-sm-5 text-center">
           <img src="/resources/Images/william4-square.jpg" class="img-circle" style="max-width: 360px">
         </div>
