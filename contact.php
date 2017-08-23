@@ -28,7 +28,7 @@
           <br>
         </div>
         <div class="col-sm-12">
-          <img src="resources/Images/contact-email.png" alt="Envelope" style="width: 128px;">
+          <a href="mailto:william.qin51@gmail.com"><img src="resources/Images/contact-email.png" alt="Envelope" style="width: 128px;"></a>
           <h2>
             E-mail
           </h2>
