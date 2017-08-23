@@ -16,7 +16,7 @@
         <div class="col-xs-9">
           <h2>Blog</h2>
           <hr>
-          <h2>Taking you to my blog page...</h2>
+          <h2>Taking you to my blog...</h2>
         </div>
         <div class="col-xs-3">
         </div>
