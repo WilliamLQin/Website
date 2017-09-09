@@ -45,7 +45,7 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="/portfolio/cpr-vr" id="changer" name="cprvr" class="animated expand-container hidden-container button transparent">
+              <a href="/projects/cpr-vr" id="changer" name="cprvr" class="animated expand-container hidden-container button transparent">
                 <div class="overlay-header">
                   <h3>
                     CPR-VR
