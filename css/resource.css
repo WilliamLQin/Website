@@ -48,19 +48,19 @@ div.page-cprvr {
 }
 
 div.page-fihgt {
-  background-image: url('fihgt1.jpg');
+  background-image: url('/resources/Images/fihgt1.jpg');
 }
 
 div.page-popmidi {
-  background-image: url('popmidi1.jpg');
+  background-image: url('/resources/Images/popmidi1.jpg');
 }
 
 div.page-stux {
-  background-image: url('stux1.png');
+  background-image: url('/resources/Images/stux1.png');
 }
 
 div.page-laserfield {
-  background-image: url('laserfield1.png');
+  background-image: url('/resources/Images/laserfield1.png');
 }
 
 

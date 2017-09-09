@@ -60,7 +60,7 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="/pop-midi" id="changer" name="popmidi" class="animated expand-container hidden-container button transparent">
+              <a href="/projects/pop-midi" id="changer" name="popmidi" class="animated expand-container hidden-container button transparent">
                 <div class="overlay-header">
                   <h3>
                     Pop MIDI
@@ -75,7 +75,7 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="/stux" id="changer" name="stux" class="animated expand-container hidden-container button transparent">
+              <a href="/projects/stux" id="changer" name="stux" class="animated expand-container hidden-container button transparent">
                 <div class="overlay-header">
                   <h3>
                     Stux
@@ -90,7 +90,7 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="/laser-field" id="changer" name="laserfield" class="animated expand-container hidden-container button transparent">
+              <a href="/projects/laser-field" id="changer" name="laserfield" class="animated expand-container hidden-container button transparent">
                 <div class="overlay-header">
                   <h3>
                     Laser Field
