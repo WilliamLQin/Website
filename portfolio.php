@@ -27,6 +27,30 @@
         </h2>
         <br>
 
+        <div class="col-sm-4">
+          <h2>
+            Fihgt
+          </h2>
+        </div>
+        <div class="col-sm-4">
+          <h2>
+            CPR-VR
+          </h2>
+        </div>
+        <div class="col-sm-4">
+          <h2>
+            PopMIDI
+          </h2>
+        </div>
+        <div class="col-sm-4">
+          <h2>
+            Stux
+          </h2>
+        </div>
+
+
+        <br>
+
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
@@ -206,7 +230,7 @@
               iOS App - Stux
             </h2>
             <p>
-              An engaging and minimalistic stacking game! <br>
+              An engaging and minimalist stacking game! <br>
               "Balance blocks in this new and incredible arcade stacker!" <br>
               <br>
               Programmed in Objective-C. <br>
