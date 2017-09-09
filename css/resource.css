@@ -43,6 +43,10 @@ div.page-timeline {
   background-image: url('/resources/Images/timeline.jpg');
 }
 
+div.page-cprvr {
+  background-image: url('/resources/Images/CPRVR1.jpg');
+}
+
 div.page-placeholder {
   background-color: rgb(60, 60, 100);
 }

@@ -9,7 +9,7 @@
 
   <div>
 
-    <div class="jumbotron vertical-center bg-img section-darkgreen">
+    <div class="jumbotron vertical-center bg-img page-cprvr">
       <div class="text-box home-header">
         <div class="col-xs-9">
           <h2>CPR-VR</h2>
@@ -20,7 +20,7 @@
     </div>
 
     <div class="jumbotron">
-      <div class="container text-spaced">
+      <div class="container text-spaced section-darkgreen">
 
         <div class="col-sm-6">
           <h2 class="bold">
@@ -42,7 +42,7 @@
         </div>
         <br>
         <div class="col-sm-6">
-          <img src="resources/Images/CPRVR2.jpg">
+          <img src="/resources/Images/CPRVR2.jpg">
         </div>
 
       </div>
