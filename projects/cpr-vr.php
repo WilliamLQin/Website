@@ -1,11 +1,11 @@
 <head>
   <title>CPR-VR | William Qin</title>
-  <?php include('php/imports.php') ?>
+  <?php include('/php/imports.php') ?>
 </head>
 
 <body>
 
-  <?php include('php/header.php') ?>
+  <?php include('/php/header.php') ?>
 
   <div>
 
@@ -50,6 +50,6 @@
 
   </div>
 
-  <?php include('php/footer.php') ?>
+  <?php include('/php/footer.php') ?>
 
 </body>
