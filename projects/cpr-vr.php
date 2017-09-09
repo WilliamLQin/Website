@@ -19,8 +19,8 @@
       </div>
     </div>
 
-    <div class="jumbotron">
-      <div class="container text-spaced section-darkgreen">
+    <div class="jumbotron section-darkgreen">
+      <div class="container text-spaced">
 
         <div class="col-sm-6">
           <h2 class="bold">

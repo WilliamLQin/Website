@@ -47,6 +47,23 @@ div.page-cprvr {
   background-image: url('/resources/Images/CPRVR1.jpg');
 }
 
+div.page-fihgt {
+  background-image: url('fihgt1.jpg');
+}
+
+div.page-popmidi {
+  background-image: url('popmidi1.jpg');
+}
+
+div.page-stux {
+  background-image: url('stux1.png');
+}
+
+div.page-laserfield {
+  background-image: url('laserfield1.png');
+}
+
+
 div.page-placeholder {
   background-color: rgb(60, 60, 100);
 }

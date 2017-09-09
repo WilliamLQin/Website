@@ -30,7 +30,7 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="#/" id="changer" name="fihgt" class="animated expand-container hidden-container button transparent">
+              <a href="/projects/fihgt" id="changer" name="fihgt" class="animated expand-container hidden-container button transparent">
                 <div class="overlay-header">
                   <h3>
                     Fihgt
@@ -60,7 +60,7 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="#/" id="changer" name="popmidi" class="animated expand-container hidden-container button transparent">
+              <a href="/pop-midi" id="changer" name="popmidi" class="animated expand-container hidden-container button transparent">
                 <div class="overlay-header">
                   <h3>
                     Pop MIDI
@@ -75,7 +75,7 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="#/" id="changer" name="stux" class="animated expand-container hidden-container button transparent">
+              <a href="/stux" id="changer" name="stux" class="animated expand-container hidden-container button transparent">
                 <div class="overlay-header">
                   <h3>
                     Stux
@@ -90,7 +90,7 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="#/" id="changer" name="laserfield" class="animated expand-container hidden-container button transparent">
+              <a href="/laser-field" id="changer" name="laserfield" class="animated expand-container hidden-container button transparent">
                 <div class="overlay-header">
                   <h3>
                     Laser Field
@@ -105,9 +105,9 @@
       </div>
     </div>
 
-    <script src="/js/portfolio.js"></script>
+    <!-- <script src="/js/portfolio.js"></script> -->
 
-    <div class="jumbotron section-darkgreen">
+    <!-- <div class="jumbotron section-darkgreen">
       <div class="container text-spaced">
 
         <div id="content-base">
@@ -244,7 +244,7 @@
 
 
       </div>
-    </div>
+    </div> -->
 
   </div>
 
