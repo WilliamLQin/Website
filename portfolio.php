@@ -27,30 +27,6 @@
         </h2>
         <br>
 
-        <div class="col-sm-4">
-          <h2>
-            Fihgt
-          </h2>
-        </div>
-        <div class="col-sm-4">
-          <h2>
-            CPR-VR
-          </h2>
-        </div>
-        <div class="col-sm-4">
-          <h2>
-            PopMIDI
-          </h2>
-        </div>
-        <div class="col-sm-4">
-          <h2>
-            Stux
-          </h2>
-        </div>
-
-
-        <br>
-
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
@@ -69,7 +45,7 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="#/" id="changer" name="cprvr" class="animated expand-container hidden-container button transparent">
+              <a href="/portfolio/cpr-vr" id="changer" name="cprvr" class="animated expand-container hidden-container button transparent">
                 <div class="overlay-header">
                   <h3>
                     CPR-VR
