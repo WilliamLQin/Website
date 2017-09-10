@@ -45,6 +45,21 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
+              <a href="/projects/lightboard-message-creator" class="animated expand-container hidden-container button transparent-alt">
+                <div class="overlay-header">
+                  <h3>
+                    Lightboard
+                  </h3>
+                </div>
+              </a>
+            </div>
+            <img src="/resources/Images/fihgt1.jpg" class="animated expand-image rounded border-black">
+          </div>
+        </div>
+
+        <div class="module-container module-1by1">
+          <div class="module">
+            <div class="overlay">
               <a href="/projects/scouting-compiler" class="animated expand-container hidden-container button transparent-alt">
                 <div class="overlay-header">
                   <h3>
