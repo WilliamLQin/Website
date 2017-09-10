@@ -53,7 +53,7 @@
                 </div>
               </a>
             </div>
-            <img src="/resources/Images/fihgt1.jpg" class="animated expand-image rounded border-black">
+            <img src="/resources/Images/lightboard1.jpg" class="animated expand-image rounded border-black">
           </div>
         </div>
 
