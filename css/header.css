@@ -17,11 +17,6 @@ header nav.navbar-inverse .navbar-brand {
 
 
 
-header .dropdown {
-    position: relative;
-    display: inline-block;
-}
-
 header .dropdown-content {
     display: none;
     position: absolute;
@@ -40,6 +35,6 @@ header .dropdown-content a {
 
 header .dropdown-content a:hover {background-color: #303030}
 
-header .dropbtn:hover .dropdown-content {
+header .dropdown:hover .dropdown-content {
     display: block;
 }

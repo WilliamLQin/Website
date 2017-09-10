@@ -15,15 +15,13 @@
         <ul class="nav navbar-nav navbar-right">
           <li><a href="/about">About</a></li>
 
-          <li>
+          <li class="dropdown">
             <!-- <a href="/portfolio">Portfolio</a> -->
-            <a href="/portfolio" class="dropbtn">Portfolio</a>
-            <div class="dropdown">
-              <div class="dropdown-content">
-                <a href="#">Link 1</a>
-                <a href="#">Link 2</a>
-                <a href="#">Link 3</a>
-              </div>
+            <a href="/portfolio">Portfolio</a>
+            <div class="dropdown-content">
+              <a href="#">Link 1</a>
+              <a href="#">Link 2</a>
+              <a href="#">Link 3</a>
             </div>
           </li>
 
