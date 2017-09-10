@@ -19,9 +19,9 @@
             <!-- <a href="/portfolio">Portfolio</a> -->
             <a href="/portfolio">Portfolio</a>
             <div class="dropdown-content">
-              <a href="#">Link 1</a>
-              <a href="#">Link 2</a>
-              <a href="#">Link 3</a>
+              <a href="/projects/fihgt">Fihgt</a>
+              <a href="/projects/cpr-vr">CPR-VR</a>
+              <a href="/projects/pop-midi">PopMIDI</a>
             </div>
           </li>
 

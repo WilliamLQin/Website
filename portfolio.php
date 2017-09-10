@@ -45,6 +45,21 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
+              <a href="/projects/scouting-compiler" class="animated expand-container hidden-container button transparent">
+                <div class="overlay-header">
+                  <h3>
+                    Scouting App
+                  </h3>
+                </div>
+              </a>
+            </div>
+            <img src="/resources/Images/scoutingcompiler1.jpg" class="animated expand-image rounded border-black">
+          </div>
+        </div>
+
+        <div class="module-container module-1by1">
+          <div class="module">
+            <div class="overlay">
               <a href="/projects/cpr-vr" id="changer" name="cprvr" class="animated expand-container hidden-container button transparent">
                 <div class="overlay-header">
                   <h3>
