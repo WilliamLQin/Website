@@ -71,6 +71,10 @@ div.page-lightboard {
   background-image: url('/resources/Images/lightboard1.jpg');
 }
 
+div.page-plant {
+  background-image: url('/resources/Images/plant2.JPG')
+}
+
 
 div.page-placeholder {
   background-color: rgb(60, 60, 100);

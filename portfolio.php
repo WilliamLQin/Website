@@ -30,7 +30,22 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="/projects/fihgt" id="changer" name="fihgt" class="animated expand-container hidden-container button transparent">
+              <a href="/projects/plant" class="animated expand-container hidden-container button transparent-alt">
+                <div class="overlay-header">
+                  <h3>
+                    Plant
+                  </h3>
+                </div>
+              </a>
+            </div>
+            <img src="/resources/Images/plant1.jpg" class="animated expand-image rounded border-black">
+          </div>
+        </div>
+
+        <div class="module-container module-1by1">
+          <div class="module">
+            <div class="overlay">
+              <a href="/projects/fihgt" id="changer" name="fihgt" class="animated expand-container hidden-container button transparent-alt">
                 <div class="overlay-header">
                   <h3>
                     Fihgt
@@ -75,7 +90,7 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="/projects/cpr-vr" id="changer" name="cprvr" class="animated expand-container hidden-container button transparent">
+              <a href="/projects/cpr-vr" id="changer" name="cprvr" class="animated expand-container hidden-container button transparent-alt">
                 <div class="overlay-header">
                   <h3>
                     CPR-VR
@@ -90,7 +105,7 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="/projects/pop-midi" id="changer" name="popmidi" class="animated expand-container hidden-container button transparent">
+              <a href="/projects/pop-midi" id="changer" name="popmidi" class="animated expand-container hidden-container button transparent-alt">
                 <div class="overlay-header">
                   <h3>
                     Pop MIDI
@@ -105,7 +120,7 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="/projects/stux" id="changer" name="stux" class="animated expand-container hidden-container button transparent">
+              <a href="/projects/stux" id="changer" name="stux" class="animated expand-container hidden-container button transparent-alt">
                 <div class="overlay-header">
                   <h3>
                     Stux
@@ -120,7 +135,7 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="/projects/laser-field" id="changer" name="laserfield" class="animated expand-container hidden-container button transparent">
+              <a href="/projects/laser-field" id="changer" name="laserfield" class="animated expand-container hidden-container button transparent-alt">
                 <div class="overlay-header">
                   <h3>
                     Laser Field
