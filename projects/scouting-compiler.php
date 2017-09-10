@@ -9,7 +9,7 @@
 
   <div>
 
-    <div class="jumbotron vertical-center bg-img page-cprvr">
+    <div class="jumbotron vertical-center bg-img page-scoutingcompiler">
       <div class="text-box home-header">
         <div class="col-xs-9">
           <h2>Scouting Compiler</h2>
@@ -38,7 +38,7 @@
         </div>
         <br>
         <div class="col-sm-6">
-          <img src="/resources/Images/scoutingcompiler2.jpg">
+          <img src="/resources/Images/scoutingcompiler2.JPG">
         </div>
 
       </div>

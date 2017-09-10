@@ -63,6 +63,10 @@ div.page-laserfield {
   background-image: url('/resources/Images/laserfield1.png');
 }
 
+div.page-scoutingcompiler {
+  background-image: url('/resources/Images/scoutingcompiler1.jpg');
+}
+
 
 div.page-placeholder {
   background-color: rgb(60, 60, 100);

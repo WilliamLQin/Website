@@ -45,7 +45,7 @@
         <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
-              <a href="/projects/scouting-compiler" class="animated expand-container hidden-container button transparent">
+              <a href="/projects/scouting-compiler" class="animated expand-container hidden-container button transparent-alt">
                 <div class="overlay-header">
                   <h3>
                     Scouting App
