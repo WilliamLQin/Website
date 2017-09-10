@@ -20,8 +20,8 @@
             <a href="/portfolio">Portfolio</a>
             <div class="dropdown-content">
               <a href="/projects/fihgt">Fihgt</a>
+              <a href="/projects/scouting-compiler">Scouting Compiler</a>
               <a href="/projects/cpr-vr">CPR-VR</a>
-              <a href="/projects/pop-midi">PopMIDI</a>
             </div>
           </li>
 
