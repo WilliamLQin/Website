@@ -15,15 +15,16 @@
         <ul class="nav navbar-nav navbar-right">
           <li><a href="/about">About</a></li>
 
-          <li class="dropdown">
-            <!-- <a href="/portfolio">Portfolio</a> -->
+          <li><a href="/portfolio">Portfolio</a></li>
+
+          <!-- <li class="dropdown">
             <a href="/portfolio">Portfolio</a>
             <div class="dropdown-content">
               <a href="/projects/fihgt">Fihgt</a>
               <a href="/projects/scouting-compiler">Scouting Compiler</a>
               <a href="/projects/cpr-vr">CPR-VR</a>
             </div>
-          </li>
+          </li> -->
 
           <li><a href="/resume">Resume</a></li>
           <li><a href="/blog">Blog</a></li>
