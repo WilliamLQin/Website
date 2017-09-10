@@ -14,7 +14,19 @@
       <div class="collapse navbar-collapse" id="headerNav">
         <ul class="nav navbar-nav navbar-right">
           <li><a href="/about">About</a></li>
-          <li><a href="/portfolio">Portfolio</a></li>
+
+          <li>
+            <!-- <a href="/portfolio">Portfolio</a> -->
+            <div class="dropdown">
+              <a href="/portfolio"><button class="dropbtn">Portfolio</button></a>
+              <div class="dropdown-content">
+                <a href="#">Link 1</a>
+                <a href="#">Link 2</a>
+                <a href="#">Link 3</a>
+              </div>
+            </div>
+          </li>
+
           <li><a href="/resume">Resume</a></li>
           <li><a href="/blog">Blog</a></li>
           <!-- <li><a href="/timeline">Timeline</a></li> -->
