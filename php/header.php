@@ -17,8 +17,8 @@
 
           <li>
             <!-- <a href="/portfolio">Portfolio</a> -->
+            <a href="/portfolio" class="dropbtn">Portfolio</a>
             <div class="dropdown">
-              <a href="/portfolio">Portfolio</a>
               <div class="dropdown-content">
                 <a href="#">Link 1</a>
                 <a href="#">Link 2</a>
