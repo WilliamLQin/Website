@@ -17,8 +17,16 @@
 
           <li>
             <!-- <a href="/portfolio">Portfolio</a> -->
+            <!-- <div class="dropdown">
+              <a href="/portfolio">Portfolio</a>
+              <div class="dropdown-content">
+                <a href="#">Link 1</a>
+                <a href="#">Link 2</a>
+                <a href="#">Link 3</a>
+              </div>
+            </div> -->
             <div class="dropdown">
-              <a href="/portfolio"><button class="dropbtn">Portfolio</button></a>
+              <button class="dropbtn">Dropdown</button>
               <div class="dropdown-content">
                 <a href="#">Link 1</a>
                 <a href="#">Link 2</a>

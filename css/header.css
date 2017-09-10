@@ -16,37 +16,46 @@ header nav.navbar-inverse .navbar-brand {
 }
 
 
-header .dropbtn {
-    color: white;
-    padding: 16px;
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
     font-size: 16px;
     border: none;
-    cursor: pointer;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
 }
 
-header .dropdown {
-    position: relative;
-    display: inline-block;
+.container a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
 }
 
-header .dropdown-content {
+.dropdown-content {
     display: none;
     position: absolute;
-    background-color: #000000;
+    background-color: #f9f9f9;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
 }
 
-header .dropdown-content a {
-    color: white;
+.dropdown-content a {
+    float: none;
+    color: black;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
+    text-align: left;
 }
 
-header .dropdown-content a:hover {background-color: #303030}
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
 
-header .dropdown:hover .dropdown-content {
+.dropdown:hover .dropdown-content {
     display: block;
 }
