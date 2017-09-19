@@ -73,14 +73,14 @@
         </h2>
         <hr>
         <h3>
-          Electronic Assembler <br>
+          Assistant Developer <br>
           D&R Electronics Co. - Bolton, Ontario <br>
           Jul. – Aug. 2017 <br>
           &nbsp;&nbsp;Developed interfaces used to modify hardware behavior <br>
           &nbsp;&nbsp;Assembled parts for manufacturing electronic equipment, mainly wiring <br>
           &nbsp;&nbsp;Tested electronic equipment prior to shipment of goods to clients <br>
           <br>
-          Senior Programmer/Scouting Lead <br>
+          Senior Programmer <br>
           FRC Team 1325 - Mississauga, Ontario <br>
           Nov. 2015 – Sep. 2017 <br>
           &nbsp;&nbsp;Collaborated with team members to program essential robot controls <br>
@@ -93,19 +93,19 @@
         </h2>
         <hr>
         <h3>
+          Scouting Compiler <br>
+          FRC Team 1325 - Mississauga, Ontario <br>
+          Jan. - May 2017 <br>
+          &nbsp;&nbsp;Database for recording and viewing scouting information <br>
+          &nbsp;&nbsp;Built with HTML, CSS, JavaScript, and Firebase <br>
+          &nbsp;&nbsp;Used extensively during FIRST Steamworks competitions for important insights on other teams <br>
+          <br>
           CPR-VR <br>
           UofTHacks IV Submission - Toronto, Ontario <br>
           Jan. 2017 <br>
           &nbsp;&nbsp;Virtual Reality simulator for basic CPR training <br>
           &nbsp;&nbsp;Created with Unity (C#), Google Cardboard, Leap Motion, and Sketchup <br>
           &nbsp;&nbsp;Led four-person team to successfully create CPR-VR and achieve Top 10 Overall Hack <br>
-          <br>
-          Pop-MIDI <br>
-          Cipher Local Hack Day Submission - Brampton, Ontario <br>
-          Dec. 2016 <br>
-          &nbsp;&nbsp;Pop can music box that can play MIDI files <br>
-          &nbsp;&nbsp;Created with Python and Arduino <br>
-          &nbsp;&nbsp;Worked in a three-person team to finish project and win Best Overall Hack with Mentor <br>
         </h3>
         <br>
         <h2 class="bold">
@@ -123,10 +123,14 @@
         </h2>
         <hr>
         <h3>
+          Enhanced Learning Program <br>
+          The Woodlands Secondary School - Mississauga, Ontario <br>
+          September 2017 - present <br>
+          <br>
           International Business Technology Program <br>
           Gordon Graydon Memorial Secondary School - Mississauga, Ontario <br>
-          September 2015 - present <br>
-          &nbsp;&nbsp;Cumulative GPA: 4.0/4.0 <br>
+          September 2015 - June 2017 <br>
+          &nbsp;&nbsp;Grade Average: 96% <br>
         </h3>
       </div>
     </div>
