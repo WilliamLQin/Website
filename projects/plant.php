@@ -31,7 +31,6 @@
             Currently code-named "Plant"; this Unity project is currently under development. <br>
             <br>
             Programmed in C# with Unity. <br>
-            In development with Andrew Wang and LiFei Qin. <br>
             <br>
             Follow updates on this project on my <a href="http://blog.williamqin.com">blog</a>! <br>
           </p>

@@ -30,7 +30,6 @@
             Interface for creating lightboard messages to be displayed on traffic signs <br>
             <br>
             Programmed in C# with Visual Studio <br>
-            Made with Andy Wang. <br>
             <br>
             Created at D&R Electronics Co. Ltd. <br>
           </p>

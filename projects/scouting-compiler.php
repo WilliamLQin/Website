@@ -31,9 +31,9 @@
             Extensively used for important insights on other teams prior to competitions and for alliance selections. <br>
             <br>
             Built with HTML, CSS, JavaScript, and Firebase. <br>
-            Made by myself. <br>
             <br>
             View the project <a href="https://scouting-compiler.firebaseapp.com">here</a>. <br>
+            Or, head to my GitHub repository <a href="https://github.com/WilliamLQin/FRC2017Scouting">here</a>. <br>
           </p>
         </div>
         <br>

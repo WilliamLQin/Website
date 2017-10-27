@@ -32,7 +32,6 @@
             <br>
             Hardware programmed in C/C++ with Arduino. <br>
             MIDI file reader programmed in Python. <br>
-            Made with Simon (Zirui) Guo and Samuel Sun. <br>
             <br>
             Submission for 12-hour hackathon Cipher Local Hack Day. <br>
             Won Best Overall Hack with Mentor! (Out of ~20 teams) <br>

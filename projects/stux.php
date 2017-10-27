@@ -31,7 +31,6 @@
             "Balance blocks in this new and incredible arcade stacker!" <br>
             <br>
             Programmed in Objective-C. <br>
-            Made by myself. <br>
             <br>
             (Unfortunately, you can't find this on the App Store anymore.) <br>
           </p>

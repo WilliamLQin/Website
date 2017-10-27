@@ -31,7 +31,6 @@
             "A wacky and fun fighting game for two players!"" <br>
             <br>
             Programmed in C# with Unity. <br>
-            Made with Andrew Wang. <br>
             <br>
             Download to play now! <br>
             <br>

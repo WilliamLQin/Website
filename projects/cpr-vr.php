@@ -32,12 +32,12 @@
             <br>
             Programmed in C# with Unity. <br>
             Used Google Cardboard, Leap Motion, and SketchUp. <br>
-            Made with Ming (Michelle) Yi, Aanand Bajaj, and Samuel Sun. <br>
             <br>
             Submission for 36-hour hackathon UofTHacks IV. <br>
             Won Top 10 Overall Hack! (Out of ~80 teams) <br>
             <br>
             Learn more about this project <a href="https://www.hackerearth.com/fr/sprints/uofthacks-iv/dashboard/UofTTeam1/submission/">here</a>. <br>
+            Or, head to my GitHub repository <a href="https://github.com/WilliamLQin/CPR-VR">here</a>. <br>
           </p>
         </div>
         <br>
