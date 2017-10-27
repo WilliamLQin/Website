@@ -28,12 +28,12 @@
           <br>
         </div>
         <div class="col-sm-12">
-          <a href="mailto:william.qin51@gmail.com"><img src="resources/Images/contact-email.png" alt="Envelope" style="width: 128px;"></a>
+          <a href="mailto:hello@williamqin.com"><img src="resources/Images/contact-email.png" alt="Envelope" style="width: 128px;"></a>
           <h2>
             E-mail
           </h2>
           <h3>
-            william.qin51@gmail.com
+            hello@williamqin.com
           </h3>
         </div>
         <br>

@@ -20,7 +20,7 @@
     <br>
     <div class="paragraph-position-center">
       <p>
-        &nbsp; <span class="glyphicon glyphicon-envelope"></span> &nbsp; &nbsp; william.qin51@gmail.com
+        &nbsp; <span class="glyphicon glyphicon-envelope"></span> &nbsp; &nbsp; hello@williamqin.com
         <br>
         <!-- <br>
         &nbsp; <span class="glyphicon glyphicon-earphone"></span> &nbsp; &nbsp; [phone number] -->
