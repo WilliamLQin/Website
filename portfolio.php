@@ -27,7 +27,7 @@
         </h2>
         <br>
 
-        <div class="module-container module-1by1">
+        <div class="module-container module-2by1">
           <div class="module">
             <div class="overlay">
               <a href="/projects/plant" class="animated expand-container hidden-container button transparent-alt">

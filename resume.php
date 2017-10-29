@@ -56,7 +56,7 @@
         </h2>
         <hr>
         <h3>
-          •	Knowledge of C# (Unity), Python, HTML, CSS, and Java (Eclipse)
+          •	Knowledge of C# (Unity), Python, HTML, CSS, and Java (Eclipse, Android Studio)
           <br>
           •	Essential proficiency in Google Drive and Microsoft Office
           <br>
