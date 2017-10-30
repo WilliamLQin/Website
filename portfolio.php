@@ -20,21 +20,25 @@
     </div>
 
     <div class="jumbotron">
-      <div class="container text-center text-spaced special-modules">
+      <div class="container text-center text-spaced">
 
         <h2 class="bold">
           Here, you'll find a gallery of my projects!
         </h2>
         <br>
 
-        <div class="view overlay hm-black-strong">
-            <img src="/resources/Images/plant1.jpg" class="img-fluid" alt="">
-            <div class="mask flex-center">
-                <p class="white-text">Strong overlay</p>
-            </div>
+        <div class="col-md-4">
+          <div class="view overlay hm-black-strong">
+              <img src="/resources/Images/plant1.jpg" class="img-fluid" alt="">
+              <a href="/projects/plant">
+                <div class="mask flex-center waves-effect waves-light">
+                    <p class="white-text">Strong overlay</p>
+                </div>
+              </a>
+          </div>
         </div>
 
-        <div class="module-container module-1by1">
+        <!-- <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
               <a href="/projects/plant" class="animated expand-container hidden-container button transparent-alt">
@@ -152,7 +156,7 @@
             </div>
             <img src="/resources/Images/laserfield1.png" class="animated expand-image rounded border-black">
           </div>
-        </div>
+        </div> -->
 
       </div>
     </div>
