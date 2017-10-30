@@ -22,10 +22,12 @@
     <div class="jumbotron">
       <div class="container text-center text-spaced">
 
-        <h2 class="bold">
-          Featured Projects
-        </h2>
-        <br>
+        <div class="col-md-12">
+          <h2 class="bold">
+            Featured Projects
+          </h2>
+          <br>
+        </div>
 
         <div class="col-md-4">
           <div class="view overlay hm-black-strong hm-zoom">
@@ -45,8 +47,10 @@
               <a href="/projects/plant">
                 <div class="mask flex-center waves-effect waves-light">
                     <h3 class="white-text"><strong>Plant</strong>
-                      <br>
-                      Single player tower defense game with freedom of placement
+                      <p>
+                        <br>
+                        Single player tower defense game with freedom of placement
+                      </p>
                     </h3>
                 </div>
               </a>
@@ -54,14 +58,13 @@
           <br>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-12">
+          <br>
+          <h2 class="bold">
+            Other Projects
+          </h2>
+          <br>
         </div>
-
-        <br>
-        <h2 class="bold">
-          Other Projects
-        </h2>
-        <br>
 
         <div class="col-md-4">
           <div class="view overlay hm-black-strong hm-zoom">
