@@ -95,6 +95,10 @@ img.download-icon {
   }
 }
 
+div .mask {
+  padding: 20px;
+}
+
 /* Module stuff */
 
 /*.container.special-modules {

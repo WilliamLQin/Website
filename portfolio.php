@@ -88,7 +88,7 @@
           <br>
         </div>
 
-        <div class="col-sm-4 col-md-3">
+        <div class="col-sm-4">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/fihgt1.jpg" class="img-fluid" alt="">
               <a href="/projects/fihgt">
@@ -105,7 +105,7 @@
           <br>
         </div>
 
-        <div class="col-sm-4 col-md-3">
+        <div class="col-sm-4">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/scoutingcompiler1.jpg" class="img-fluid" alt="">
               <a href="/projects/scouting-compiler">
@@ -122,7 +122,7 @@
           <br>
         </div>
 
-        <div class="col-sm-4 col-md-3">
+        <div class="col-sm-4">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/lightboard1.jpg" class="img-fluid" alt="">
               <a href="/projects/lightboard-message-creator">
@@ -140,7 +140,7 @@
           <br>
         </div>
 
-        <div class="col-sm-4 col-md-3">
+        <div class="col-sm-4">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/popmidi1.jpg" class="img-fluid" alt="">
               <a href="/projects/pop-midi">
@@ -157,7 +157,7 @@
           <br>
         </div>
 
-        <div class="col-sm-4 col-md-3">
+        <div class="col-sm-4">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/stux1.png" class="img-fluid" alt="">
               <a href="/projects/stux">
@@ -174,7 +174,7 @@
           <br>
         </div>
 
-        <div class="col-sm-4 col-md-3">
+        <div class="col-sm-4">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/laserfield1.png" class="img-fluid" alt="">
               <a href="/projects/laser-field">
