@@ -28,8 +28,8 @@
         <br>
 
         <div class="col-md-4">
-          <div class="view overlay hm-black-strong">
-              <img src="/resources/Images/plant1.jpg" class="img-fluid" alt="">
+          <div class="view overlay hm-black-strong hm-zoom">
+              <img src="/resources/Images/plant1.jpg" class="img-fluid hoverable" alt="">
               <a href="/projects/plant">
                 <div class="mask flex-center waves-effect waves-light">
                     <h3 class="white-text">Plant</h3>
