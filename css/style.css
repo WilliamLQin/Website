@@ -118,20 +118,9 @@ div .module-container.module-1by1:before {
   width: 44vw;
 }
 
-div .module-container.module-2by1:before {
-  content: "";
-  display: block;
-  padding-top: 100%;
-
-  width: 66vw;
-}
-
 @media only screen and (min-width: 768px) {
   div .module-container.module-1by1:before {
     width: 29vw;
-  }
-  div .module-container.module-2by1:before {
-    width: 43vw;
   }
 }
 
@@ -139,17 +128,11 @@ div .module-container.module-2by1:before {
   div .module-container.module-1by1:before {
     width: 22vw;
   }
-  div .module-container.module-2by1:before {
-    width: 33vw;
-  }
 }
 
 @media only screen and (min-width: 1200px) {
   div .module-container.module-1by1:before {
     width: 17.6vw;
-  }
-  div .module-container.module-2by1:before {
-    width: 26.4vw;
   }
 }
 /*div .module-container.module-2by1:before {
