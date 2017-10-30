@@ -36,6 +36,7 @@
                 </div>
               </a>
           </div>
+          <br>
         </div>
 
         <div class="col-md-4">
@@ -43,15 +44,19 @@
               <img src="/resources/Images/plant1.jpg" class="img-fluid hoverable" alt="">
               <a href="/projects/plant">
                 <div class="mask flex-center waves-effect waves-light">
-                    <h3 class="white-text">Plant</h3>
-                    <br>
-                    <p>Single player tower defense game with freedom of placement</p>
+                    <h3 class="white-text"><strong>Plant</strong>
+                      <br>
+                      Single player tower defense game with freedom of placement
+                    </h3>
                 </div>
               </a>
           </div>
+          <br>
         </div>
 
-        <br>
+        <div class="col-md-4">
+        </div>
+
         <br>
         <h2 class="bold">
           Other Projects
