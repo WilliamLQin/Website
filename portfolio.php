@@ -107,7 +107,7 @@
 
         <div class="col-md-4">
           <div class="view overlay hm-black-strong hm-zoom">
-              <img src="/resources/Images/scoutingcompiler.jpg" class="img-fluid hoverable" alt="">
+              <img src="/resources/Images/scoutingcompiler1.jpg" class="img-fluid hoverable" alt="">
               <a href="/projects/scouting-compiler">
                 <div class="mask flex-center">
                     <h3 class="white-text"><strong>Scouting App</strong>
