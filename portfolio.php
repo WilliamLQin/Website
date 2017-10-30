@@ -23,7 +23,38 @@
       <div class="container text-center text-spaced">
 
         <h2 class="bold">
-          Here, you'll find a gallery of my projects!
+          Featured Projects
+        </h2>
+        <br>
+
+        <div class="col-md-4">
+          <div class="view overlay hm-black-strong hm-zoom">
+              <img src="/resources/Images/plant1.jpg" class="img-fluid hoverable" alt="">
+              <a href="/projects/plant">
+                <div class="mask flex-center waves-effect waves-light">
+                    <h3 class="white-text">Plant</h3>
+                </div>
+              </a>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="view overlay hm-black-strong hm-zoom">
+              <img src="/resources/Images/plant1.jpg" class="img-fluid hoverable" alt="">
+              <a href="/projects/plant">
+                <div class="mask flex-center waves-effect waves-light">
+                    <h3 class="white-text">Plant</h3>
+                    <br>
+                    <p>Single player tower defense game with freedom of placement</p>
+                </div>
+              </a>
+          </div>
+        </div>
+
+        <br>
+        <br>
+        <h2 class="bold">
+          Other Projects
         </h2>
         <br>
 
