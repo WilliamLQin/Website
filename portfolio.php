@@ -32,7 +32,7 @@
               <img src="/resources/Images/plant1.jpg" class="img-fluid" alt="">
               <a href="/projects/plant">
                 <div class="mask flex-center waves-effect waves-light">
-                    <p class="white-text">Strong overlay</p>
+                    <h3 class="white-text">Plant</h3>
                 </div>
               </a>
           </div>

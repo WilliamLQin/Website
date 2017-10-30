@@ -97,7 +97,7 @@ img.download-icon {
 
 /* Module stuff */
 
-.container.special-modules {
+/*.container.special-modules {
   margin: 0;
   padding: 0 6vw;
   width: 100vw;
@@ -134,7 +134,7 @@ div .module-container.module-1by1:before {
   div .module-container.module-1by1:before {
     width: 17.6vw;
   }
-}
+}*/
 /*div .module-container.module-2by1:before {
   content: "";
   display: block;
@@ -143,7 +143,7 @@ div .module-container.module-1by1:before {
   width: 34vw;
 }*/
 
-.module {
+/*.module {
   margin: 0;
   position: absolute;
   top: 0;
@@ -262,4 +262,4 @@ div .module-container.module-1by1:before {
   margin: 0;
   width: 100%;
   height: 100%;
-}
+}*/
