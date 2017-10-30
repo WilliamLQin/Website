@@ -32,9 +32,14 @@
         <div class="col-md-4">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/plant1.jpg" class="img-fluid hoverable" alt="">
-              <a href="/projects/plant">
-                <div class="mask flex-center waves-effect waves-light">
-                    <h3 class="white-text">Plant</h3>
+              <a href="/projects/vision-motion">
+                <div class="mask flex-center">
+                  <h3 class="white-text"><strong>Vision Motion</strong>
+                    <p>
+                      <br>
+                      Motion sensor mobile app that uses the camera to track an object
+                    </p>
+                  </h3>
                 </div>
               </a>
           </div>
@@ -45,11 +50,28 @@
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/plant1.jpg" class="img-fluid hoverable" alt="">
               <a href="/projects/plant">
-                <div class="mask flex-center waves-effect waves-light">
+                <div class="mask flex-center">
                     <h3 class="white-text"><strong>Plant</strong>
                       <p>
                         <br>
                         Single player tower defense game with freedom of placement
+                      </p>
+                    </h3>
+                </div>
+              </a>
+          </div>
+          <br>
+        </div>
+
+        <div class="col-md-4">
+          <div class="view overlay hm-black-strong hm-zoom">
+              <img src="/resources/Images/CPRVR1.jpg" class="img-fluid hoverable" alt="">
+              <a href="/projects/cpr-vr">
+                <div class="mask flex-center">
+                    <h3 class="white-text"><strong>CPR-VR</strong>
+                      <p>
+                        <br>
+                        Virtual reality simulator for basic CPR
                       </p>
                     </h3>
                 </div>
@@ -68,14 +90,108 @@
 
         <div class="col-md-4">
           <div class="view overlay hm-black-strong hm-zoom">
-              <img src="/resources/Images/plant1.jpg" class="img-fluid hoverable" alt="">
-              <a href="/projects/plant">
-                <div class="mask flex-center waves-effect waves-light">
-                    <h3 class="white-text">Plant</h3>
+              <img src="/resources/Images/fihgt1.jpg" class="img-fluid hoverable" alt="">
+              <a href="/projects/fihgt">
+                <div class="mask flex-center">
+                    <h3 class="white-text"><strong>Fihgt</strong>
+                      <p>
+                        <br>
+                        A wacky and fun fighting game for two players!
+                      </p>
+                    </h3>
                 </div>
               </a>
           </div>
+          <br>
         </div>
+
+        <div class="col-md-4">
+          <div class="view overlay hm-black-strong hm-zoom">
+              <img src="/resources/Images/scoutingcompiler.jpg" class="img-fluid hoverable" alt="">
+              <a href="/projects/scouting-compiler">
+                <div class="mask flex-center">
+                    <h3 class="white-text"><strong>Scouting App</strong>
+                      <p>
+                        <br>
+                        Firebase database for recording and viewing scouting information
+                      </p>
+                    </h3>
+                </div>
+              </a>
+          </div>
+          <br>
+        </div>
+
+        <div class="col-md-4">
+          <div class="view overlay hm-black-strong hm-zoom">
+              <img src="/resources/Images/lightboard1.jpg" class="img-fluid hoverable" alt="">
+              <a href="/projects/lightboard-message-creator">
+                <div class="mask flex-center">
+                    <h3 class="white-text"><strong>Lightboard Creator</strong>
+                      <p>
+                        <br>
+                        Interface for creating lightboard messages to be displayed on traffic signs
+                      </p>
+                    </h3>
+                </div>
+              </a>
+          </div>
+          <br>
+        </div>
+
+        <div class="col-md-4">
+          <div class="view overlay hm-black-strong hm-zoom">
+              <img src="/resources/Images/popmidi1.jpg" class="img-fluid hoverable" alt="">
+              <a href="/projects/pop-midi">
+                <div class="mask flex-center">
+                    <h3 class="white-text"><strong>Pop MIDI</strong>
+                      <p>
+                        <br>
+                        Pop can music box that can play MIDI files
+                      </p>
+                    </h3>
+                </div>
+              </a>
+          </div>
+          <br>
+        </div>
+
+        <div class="col-md-4">
+          <div class="view overlay hm-black-strong hm-zoom">
+              <img src="/resources/Images/stux1.png" class="img-fluid hoverable" alt="">
+              <a href="/projects/stux">
+                <div class="mask flex-center">
+                    <h3 class="white-text"><strong>Stux</strong>
+                      <p>
+                        <br>
+                        iOS block stacking game with physics
+                      </p>
+                    </h3>
+                </div>
+              </a>
+          </div>
+          <br>
+        </div>
+
+        <div class="col-md-4">
+          <div class="view overlay hm-black-strong hm-zoom">
+              <img src="/resources/Images/laserfield1.png" class="img-fluid hoverable" alt="">
+              <a href="/projects/laser-field">
+                <div class="mask flex-center">
+                    <h3 class="white-text"><strong>Laser Field</strong>
+                      <p>
+                        <br>
+                        iOS laser bounding game
+                      </p>
+                    </h3>
+                </div>
+              </a>
+          </div>
+          <br>
+        </div>
+
+      </div>
+    </div>
 
         <!-- <div class="module-container module-1by1">
           <div class="module">
@@ -90,9 +206,9 @@
             </div>
             <img src="/resources/Images/plant1.jpg" class="animated expand-image rounded border-black">
           </div>
-        </div>
+        </div> -->
 
-        <div class="module-container module-1by1">
+        <!-- <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
               <a href="/projects/fihgt" id="changer" name="fihgt" class="animated expand-container hidden-container button transparent-alt">
@@ -105,9 +221,9 @@
             </div>
             <img src="/resources/Images/fihgt1.jpg" class="animated expand-image rounded border-black">
           </div>
-        </div>
+        </div> -->
 
-        <div class="module-container module-1by1">
+        <!-- <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
               <a href="/projects/lightboard-message-creator" class="animated expand-container hidden-container button transparent-alt">
@@ -120,9 +236,9 @@
             </div>
             <img src="/resources/Images/lightboard1.jpg" class="animated expand-image rounded border-black">
           </div>
-        </div>
+        </div> -->
 
-        <div class="module-container module-1by1">
+        <!-- <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
               <a href="/projects/scouting-compiler" class="animated expand-container hidden-container button transparent-alt">
@@ -135,9 +251,9 @@
             </div>
             <img src="/resources/Images/scoutingcompiler1.jpg" class="animated expand-image rounded border-black">
           </div>
-        </div>
+        </div> -->
 
-        <div class="module-container module-1by1">
+        <!-- <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
               <a href="/projects/cpr-vr" id="changer" name="cprvr" class="animated expand-container hidden-container button transparent-alt">
@@ -150,9 +266,9 @@
             </div>
             <img src="/resources/Images/CPRVR1.jpg" class="animated expand-image rounded border-black">
           </div>
-        </div>
+        </div> -->
 
-        <div class="module-container module-1by1">
+        <!-- <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
               <a href="/projects/pop-midi" id="changer" name="popmidi" class="animated expand-container hidden-container button transparent-alt">
@@ -165,9 +281,9 @@
             </div>
             <img src="/resources/Images/popmidi1.jpg" class="animated expand-image rounded border-black">
           </div>
-        </div>
+        </div> -->
 
-        <div class="module-container module-1by1">
+        <!-- <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
               <a href="/projects/stux" id="changer" name="stux" class="animated expand-container hidden-container button transparent-alt">
@@ -180,9 +296,9 @@
             </div>
             <img src="/resources/Images/stux1.png" class="animated expand-image rounded border-black">
           </div>
-        </div>
+        </div> -->
 
-        <div class="module-container module-1by1">
+        <!-- <div class="module-container module-1by1">
           <div class="module">
             <div class="overlay">
               <a href="/projects/laser-field" id="changer" name="laserfield" class="animated expand-container hidden-container button transparent-alt">
@@ -197,8 +313,7 @@
           </div>
         </div> -->
 
-      </div>
-    </div>
+
 
     <!-- <script src="/js/portfolio.js"></script> -->
 
