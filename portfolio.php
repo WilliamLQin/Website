@@ -22,14 +22,14 @@
     <div class="jumbotron">
       <div class="container text-center text-spaced">
 
-        <div class="col-md-12">
+        <div class="col-sm-12">
           <h2 class="bold">
             Featured Projects
           </h2>
           <br>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-sm-4">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/plant1.jpg" class="img-fluid hoverable" alt="">
               <a href="/projects/vision-motion">
@@ -46,7 +46,7 @@
           <br>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-sm-4">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/plant1.jpg" class="img-fluid hoverable" alt="">
               <a href="/projects/plant">
@@ -63,7 +63,7 @@
           <br>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-sm-4">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/CPRVR1.jpg" class="img-fluid hoverable" alt="">
               <a href="/projects/cpr-vr">
@@ -80,7 +80,7 @@
           <br>
         </div>
 
-        <div class="col-md-12">
+        <div class="col-sm-12">
           <br>
           <h2 class="bold">
             Other Projects
@@ -88,7 +88,7 @@
           <br>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-sm-4 col-md-3">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/fihgt1.jpg" class="img-fluid hoverable" alt="">
               <a href="/projects/fihgt">
@@ -105,7 +105,7 @@
           <br>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-sm-4 col-md-3">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/scoutingcompiler1.jpg" class="img-fluid hoverable" alt="">
               <a href="/projects/scouting-compiler">
@@ -122,7 +122,7 @@
           <br>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-sm-4 col-md-3">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/lightboard1.jpg" class="img-fluid hoverable" alt="">
               <a href="/projects/lightboard-message-creator">
@@ -137,9 +137,10 @@
               </a>
           </div>
           <br>
+          <br>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-sm-4 col-md-3">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/popmidi1.jpg" class="img-fluid hoverable" alt="">
               <a href="/projects/pop-midi">
@@ -156,7 +157,7 @@
           <br>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-sm-4 col-md-3">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/stux1.png" class="img-fluid hoverable" alt="">
               <a href="/projects/stux">
@@ -173,7 +174,7 @@
           <br>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-sm-4 col-md-3">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/laserfield1.png" class="img-fluid hoverable" alt="">
               <a href="/projects/laser-field">
