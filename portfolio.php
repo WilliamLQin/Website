@@ -31,7 +31,7 @@
 
         <div class="col-sm-4">
           <div class="view overlay hm-black-strong hm-zoom">
-              <img src="/resources/Images/plant1.jpg" class="img-fluid" alt="">
+              <img src="/resources/Images/visionmotion.jpg" class="img-fluid" alt="">
               <a href="/projects/vision-motion">
                 <div class="mask flex-center">
                   <h3 class="white-text"><strong>Vision Motion</strong>

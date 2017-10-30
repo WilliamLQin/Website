@@ -72,7 +72,11 @@ div.page-lightboard {
 }
 
 div.page-plant {
-  background-image: url('/resources/Images/plant2.JPG')
+  background-image: url('/resources/Images/plant2.JPG');
+}
+
+div.page-visionmotion {
+  background-image: url('/resources/Images/visionmotion2.jpg');
 }
 
 
