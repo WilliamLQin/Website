@@ -39,7 +39,7 @@
         </div>
         <br>
         <div class="col-sm-6">
-          <img src="/resources/Images/visionmotion2.jpg">
+          <img src="/resources/Images/visionmotion4.jpg">
         </div>
 
       </div>
