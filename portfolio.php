@@ -31,7 +31,7 @@
 
         <div class="col-sm-4">
           <div class="view overlay hm-black-strong hm-zoom">
-              <img src="/resources/Images/plant1.jpg" class="img-fluid hoverable" alt="">
+              <img src="/resources/Images/plant1.jpg" class="img-fluid" alt="">
               <a href="/projects/vision-motion">
                 <div class="mask flex-center">
                   <h3 class="white-text"><strong>Vision Motion</strong>
@@ -48,7 +48,7 @@
 
         <div class="col-sm-4">
           <div class="view overlay hm-black-strong hm-zoom">
-              <img src="/resources/Images/plant1.jpg" class="img-fluid hoverable" alt="">
+              <img src="/resources/Images/plant1.jpg" class="img-fluid" alt="">
               <a href="/projects/plant">
                 <div class="mask flex-center">
                     <h3 class="white-text"><strong>Plant</strong>
@@ -65,7 +65,7 @@
 
         <div class="col-sm-4">
           <div class="view overlay hm-black-strong hm-zoom">
-              <img src="/resources/Images/CPRVR1.jpg" class="img-fluid hoverable" alt="">
+              <img src="/resources/Images/CPRVR1.jpg" class="img-fluid" alt="">
               <a href="/projects/cpr-vr">
                 <div class="mask flex-center">
                     <h3 class="white-text"><strong>CPR-VR</strong>
@@ -90,7 +90,7 @@
 
         <div class="col-sm-4 col-md-3">
           <div class="view overlay hm-black-strong hm-zoom">
-              <img src="/resources/Images/fihgt1.jpg" class="img-fluid hoverable" alt="">
+              <img src="/resources/Images/fihgt1.jpg" class="img-fluid" alt="">
               <a href="/projects/fihgt">
                 <div class="mask flex-center">
                     <h3 class="white-text"><strong>Fihgt</strong>
@@ -107,7 +107,7 @@
 
         <div class="col-sm-4 col-md-3">
           <div class="view overlay hm-black-strong hm-zoom">
-              <img src="/resources/Images/scoutingcompiler1.jpg" class="img-fluid hoverable" alt="">
+              <img src="/resources/Images/scoutingcompiler1.jpg" class="img-fluid" alt="">
               <a href="/projects/scouting-compiler">
                 <div class="mask flex-center">
                     <h3 class="white-text"><strong>Scouting App</strong>
@@ -124,7 +124,7 @@
 
         <div class="col-sm-4 col-md-3">
           <div class="view overlay hm-black-strong hm-zoom">
-              <img src="/resources/Images/lightboard1.jpg" class="img-fluid hoverable" alt="">
+              <img src="/resources/Images/lightboard1.jpg" class="img-fluid" alt="">
               <a href="/projects/lightboard-message-creator">
                 <div class="mask flex-center">
                     <h3 class="white-text"><strong>Lightboard Creator</strong>
@@ -142,7 +142,7 @@
 
         <div class="col-sm-4 col-md-3">
           <div class="view overlay hm-black-strong hm-zoom">
-              <img src="/resources/Images/popmidi1.jpg" class="img-fluid hoverable" alt="">
+              <img src="/resources/Images/popmidi1.jpg" class="img-fluid" alt="">
               <a href="/projects/pop-midi">
                 <div class="mask flex-center">
                     <h3 class="white-text"><strong>Pop MIDI</strong>
@@ -159,7 +159,7 @@
 
         <div class="col-sm-4 col-md-3">
           <div class="view overlay hm-black-strong hm-zoom">
-              <img src="/resources/Images/stux1.png" class="img-fluid hoverable" alt="">
+              <img src="/resources/Images/stux1.png" class="img-fluid" alt="">
               <a href="/projects/stux">
                 <div class="mask flex-center">
                     <h3 class="white-text"><strong>Stux</strong>
@@ -176,7 +176,7 @@
 
         <div class="col-sm-4 col-md-3">
           <div class="view overlay hm-black-strong hm-zoom">
-              <img src="/resources/Images/laserfield1.png" class="img-fluid hoverable" alt="">
+              <img src="/resources/Images/laserfield1.png" class="img-fluid" alt="">
               <a href="/projects/laser-field">
                 <div class="mask flex-center">
                     <h3 class="white-text"><strong>Laser Field</strong>
