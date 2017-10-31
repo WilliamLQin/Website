@@ -109,7 +109,7 @@
 
   <div class="col-4 height-2 stack hover-all">
     <div class="overlay">
-      <a href="/resume" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
+      <a href="/WilliamQin-Resume.pdf" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
         <h3 class="overlay-header">
           Resume
         </h3>

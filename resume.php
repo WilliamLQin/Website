@@ -5,6 +5,9 @@
 
 <body>
 
+  <!-- Deprecated - will go straight to file -->
+  <meta http-equiv="refresh" content="0; URL='http://williamqin.com/WilliamQin-Resume.pdf'"/>
+
   <?php include('php/header.php') ?>
 
   <div>
@@ -19,7 +22,7 @@
       </div>
     </div>
 
-    <div class="jumbotron section-blue">
+    <!-- <div class="jumbotron section-blue">
       <div class="container text-center text-spaced">
         <h2>
           Download my resume!
@@ -133,7 +136,7 @@
           &nbsp;&nbsp;Grade Average: 96% <br>
         </h3>
       </div>
-    </div>
+    </div> -->
 
   </div>
 

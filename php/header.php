@@ -26,7 +26,7 @@
             </div>
           </li> -->
 
-          <li><a href="/resume">Resume</a></li>
+          <li><a href="/WilliamQin-Resume.pdf">Resume</a></li>
           <li><a href="/blog">Blog</a></li>
           <!-- <li><a href="/timeline">Timeline</a></li> -->
           <li><a href="/contact">Contact</a></li>

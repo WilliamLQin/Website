@@ -34,7 +34,7 @@
       <a href="/home">Home</a> <br>
       <a href="/about">About</a> <br>
       <a href="/portfolio">Portfolio</a> <br>
-      <a href="/resume">Resume</a> <br>
+      <a href="/WilliamQin-Resume.pdf">Resume</a> <br>
       <a href="/blog">Blog</a> <br>
       <!-- <a href="/timeline">Timeline</a> <br> -->
       <a href="/contact">Contact</a> <br>
