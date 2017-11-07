@@ -194,6 +194,10 @@
           <br>
         </div>
 
+        <div class="col-sm-12">
+          <br>
+        </div>
+
         <div class="col-sm-4">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/laserfield1.png" class="img-fluid" alt="">
