@@ -37,7 +37,7 @@
                   <h3 class="white-text"><strong>Vision Motion</strong>
                     <p>
                       <br>
-                      Unity game that uses your brain waves to control the character
+                      Motion sensor mobile app that uses the camera to track an object
                     </p>
                   </h3>
                 </div>
@@ -51,10 +51,10 @@
               <img src="/resources/Images/ThinkTankSquare.png" class="img-fluid" alt="">
               <a href="/projects/think-tank">
                 <div class="mask flex-center">
-                  <h3 class="white-text"><strong>Vision Motion</strong>
+                  <h3 class="white-text"><strong>Think Tank</strong>
                     <p>
                       <br>
-                      Motion sensor mobile app that uses the camera to track an object
+                      Unity game that uses your brain waves to control the character
                     </p>
                   </h3>
                 </div>
