@@ -79,6 +79,10 @@ div.page-visionmotion {
   background-image: url('/resources/Images/visionmotion2.jpg');
 }
 
+div.page-thinktank {
+  background-image: url('/resources/Images/ThinkTank1.png');
+}
+
 
 div.page-placeholder {
   background-color: rgb(60, 60, 100);

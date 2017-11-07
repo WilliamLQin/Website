@@ -37,6 +37,23 @@
                   <h3 class="white-text"><strong>Vision Motion</strong>
                     <p>
                       <br>
+                      Unity game that uses your brain waves to control the character
+                    </p>
+                  </h3>
+                </div>
+              </a>
+          </div>
+          <br>
+        </div>
+
+        <div class="col-sm-4">
+          <div class="view overlay hm-black-strong hm-zoom">
+              <img src="/resources/Images/ThinkTankSquare.png" class="img-fluid" alt="">
+              <a href="/projects/think-tank">
+                <div class="mask flex-center">
+                  <h3 class="white-text"><strong>Vision Motion</strong>
+                    <p>
+                      <br>
                       Motion sensor mobile app that uses the camera to track an object
                     </p>
                   </h3>
@@ -63,6 +80,14 @@
           <br>
         </div>
 
+        <div class="col-sm-12">
+          <br>
+          <h2 class="bold">
+            Other Projects
+          </h2>
+          <br>
+        </div>
+
         <div class="col-sm-4">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/CPRVR1.jpg" class="img-fluid" alt="">
@@ -77,14 +102,6 @@
                 </div>
               </a>
           </div>
-          <br>
-        </div>
-
-        <div class="col-sm-12">
-          <br>
-          <h2 class="bold">
-            Other Projects
-          </h2>
           <br>
         </div>
 
@@ -122,6 +139,10 @@
           <br>
         </div>
 
+        <div class="col-sm-12">
+          <br>
+        </div>
+
         <div class="col-sm-4">
           <div class="view overlay hm-black-strong hm-zoom">
               <img src="/resources/Images/lightboard1.jpg" class="img-fluid" alt="">
@@ -136,7 +157,6 @@
                 </div>
               </a>
           </div>
-          <br>
           <br>
         </div>
 

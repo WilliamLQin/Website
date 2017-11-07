@@ -30,11 +30,12 @@
             Motion sensor mobile app that uses the camera to track an object and graph position, velocity, and acceleration. <br>
             It has been used in physics classrooms to enhance learning! <br>
             <br>
+            Created at THacks2. <br>
             Programmed in Java with Android Studio. <br>
             <br>
-            <!-- Learn more about this project <a href="http://visionmotion.com">here</a>. <br> -->
+            Check out the project <a href="http://visionmotion.tech"> here</a>. <br>
             Learn more about how this project was created <a href="https://devpost.com/software/visionmotion">here</a>. <br>
-            Or, head to my GitHub repository <a href="https://github.com/WilliamLQin/MotionSensor">here</a>. <br>
+            Head to my GitHub repository <a href="https://github.com/WilliamLQin/Vision-Motion">here</a>. <br>
           </p>
         </div>
         <br>

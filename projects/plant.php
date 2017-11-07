@@ -24,7 +24,7 @@
 
         <div class="col-sm-6">
           <h2 class="bold">
-            Unity App - Plant
+            Unity Game - Plant
           </h2>
           <p>
             Single player tower defense game with freedom of placement. <br>
