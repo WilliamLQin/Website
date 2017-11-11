@@ -41,6 +41,7 @@
         <br>
         <div class="col-sm-6">
           <img src="/resources/Images/visionmotion2.jpg">
+          <br>
           <img src="/resources/Images/visionmotion4.jpg">
         </div>
 
