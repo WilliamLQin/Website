@@ -104,7 +104,7 @@
         </p>
       </a>
     </div>
-    <img src="/resources/Logos/warplabslogo.png" alt="warplabs" class="animated expand-image rounded">
+    <img src="/resources/Images/visionmotion.jpg" alt="warplabs" class="animated expand-image rounded">
   </div>
 
   <div class="col-4 height-2 stack hover-all">
