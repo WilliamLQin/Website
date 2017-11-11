@@ -37,8 +37,8 @@
             Learn more about how this project was created <a href="https://devpost.com/software/visionmotion">here</a>. <br>
             Head to my GitHub repository <a href="https://github.com/WilliamLQin/Vision-Motion">here</a>. <br>
 
-            <a href="https://play.google.com/store/apps/details?id=com.williamqin.visionmotion"><img class="img-fluid" alt="download on google play store" src="resources/google-play-badge.png"></img></a>
-            
+            <a href="https://play.google.com/store/apps/details?id=com.williamqin.visionmotion"><img class="img-fluid" alt="download on google play store" src="/resources/Logos/google-play-badge.png"></img></a>
+
             <br>
             <br>
             Last updated November 11, 2017
