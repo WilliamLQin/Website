@@ -42,6 +42,7 @@
         <div class="col-sm-6">
           <img src="/resources/Images/visionmotion2.jpg">
           <br>
+          <br>
           <img src="/resources/Images/visionmotion4.jpg">
         </div>
 
