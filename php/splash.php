@@ -100,7 +100,7 @@
     <div class="overlay">
       <a href="http://visionmotion.tech" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
         <p class="overlay-text-2">
-          Check out my latest \nproject: Vision Motion!
+          Check out my latest project: Vision Motion!
         </p>
       </a>
     </div>
