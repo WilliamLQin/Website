@@ -37,6 +37,9 @@
             &nbsp;&nbsp;<a download href="/resources/Downloads/Fihgt_win.zip"><img src="/resources/Images/winicon.png" class="download-icon"></a>
             &nbsp;&nbsp;<a download href="/resources/Downloads/Fihgt_mac.zip"><img src="/resources/Images/macicon.png" class="download-icon"></a>
             &nbsp;&nbsp;<a download href="/resources/Downloads/Fihgt_linux.zip"><img src="/resources/Images/linicon.png" class="download-icon"></a>
+            <br>
+            <br>
+            Game created February 2, 2017
           </p>
         </div>
         <br>

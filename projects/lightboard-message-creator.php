@@ -31,7 +31,10 @@
             <br>
             Programmed in C# with Visual Studio <br>
             <br>
-            Created at D&R Electronics Co. Ltd. <br>
+            Created at D&amp;R Electronics Co. Ltd. <br>
+            <br>
+            <br>
+            Project created August 4, 2017
           </p>
         </div>
         <br>

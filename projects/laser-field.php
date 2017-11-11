@@ -33,6 +33,9 @@
             Programmed in Objective-C <br>
             <br>
             (Unfortunately, you can't find this on the App Store anymore.) <br>
+            <br>
+            <br>
+            Game launched December 20, 2014
           </p>
         </div>
         <br>

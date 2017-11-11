@@ -34,6 +34,9 @@
             <br>
             View the project <a href="https://scouting-compiler.firebaseapp.com">here</a>. <br>
             Or, head to my GitHub repository <a href="https://github.com/WilliamLQin/FRC2017Scouting">here</a>. <br>
+            <br>
+            <br>
+            Last updated April 29, 2017
           </p>
         </div>
         <br>

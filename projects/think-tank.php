@@ -37,6 +37,9 @@
             Check out the project page and learn about how it was created <a href="http://tanksforplaying.net"> here</a>. <br>
             Read my blog post about the experience at the event <a href="http://blog.williamqin.com/2017/11/think-tank/">here</a>. <br>
             Head to my GitHub repository <a href="https://github.com/WilliamLQin/Think-Tank">here</a>. <br>
+            <br>
+            <br>
+            Project created November 5, 2017
           </p>
         </div>
         <br>

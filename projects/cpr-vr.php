@@ -38,6 +38,9 @@
             <br>
             Learn more about this project <a href="https://www.hackerearth.com/fr/sprints/uofthacks-iv/dashboard/UofTTeam1/submission/">here</a>. <br>
             Head to my GitHub repository <a href="https://github.com/WilliamLQin/CPR-VR">here</a>. <br>
+            <br>
+            <br>
+            Project created January 21, 2017
           </p>
         </div>
         <br>

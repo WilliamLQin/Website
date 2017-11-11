@@ -33,6 +33,9 @@
             Programmed in C# with Unity. <br>
             <br>
             Follow updates on this project on my <a href="http://blog.williamqin.com">blog</a>! <br>
+            <br>
+            <br>
+            Last updated October 9, 2017
           </p>
         </div>
         <br>

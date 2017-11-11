@@ -98,9 +98,9 @@
 
   <div class="col-2 height-2 stack hover-all">
     <div class="overlay">
-      <a href="https://warplabs.wixsite.com/warplabs" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
-        <p class="overlay-text">
-          Check out Warp Labs!
+      <a href="http://visionmotion.tech" class="animated expand-container hidden-container button button-transparent-alt button-border-white">
+        <p class="overlay-text-2">
+          Check out my latest project: Vision Motion!
         </p>
       </a>
     </div>

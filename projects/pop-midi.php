@@ -37,6 +37,9 @@
             Won Best Overall Hack with Mentor! (Out of ~20 teams) <br>
             <br>
             Learn more about this project <a href="https://devpost.com/software/popmidi">here</a>. <br>
+            <br>
+            <br>
+            Project created December 3, 2016
           </p>
         </div>
         <br>
