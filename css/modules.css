@@ -149,7 +149,7 @@ body {
 }
 .overlay-text-2 {
   position: relative;
-  top: calc(80% - 0.5vw);
+  top: calc(75% - 0.5vw);
   font-size: 1.0vw;
   margin: 0;
 }
