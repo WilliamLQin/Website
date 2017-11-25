@@ -1,5 +1,5 @@
 
-body > div:last-child {
+body > div:last-of-type {
 
   width : 2px!important;
   height: 1px!important;
